@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeks">
+        <item>Пон.</item>
+        <item>Втор.</item>
+        <item>Сред.</item>
+        <item>Четв.</item>
+        <item>Пят.</item>
+        <item>Суб.</item>
+        <item>Вос.</item>
+    </string-array>
+    <string-array name="weeks_short">
+        <item>Пон.</item>
+        <item>Втор.</item>
+        <item>Сред.</item>
+        <item>Четв.</item>
+        <item>Пят.</item>
+        <item>Суб.</item>
+        <item>Вос.</item>
+    </string-array>
+    <string-array name="months">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="select_days_simple">
+        <item>Один раз</item>
+        <item>Ежедневно</item>
+        <item>С ПН. по ПТ.</item>
+        <item>Настройка</item>
+    </string-array>
+    <string-array name="fortune">
+        <item>"It's easy to hit goal for one day but hard for every day."</item>
+        <item>"It's not an easy thing to achieve a goal every single day."</item>
+        <item>You are making new record everyday!</item>
+        <item>Enjoy building a better you!</item>
+        <item>You are never a loser until you quit trying.</item>
+        <item>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</item>
+        <item>Achieve one goal a day.</item>
+        <item>Keep challenge yourself to be better today.</item>
+        <item>Just do it.</item>
+        <item>Keep practicing, winning will take care of itself.</item>
+    </string-array>
+    <string-array name="weather_aqi_descriptions">
+        <item>Отлично</item>
+        <item>Хорошо</item>
+        <item>Умеренно</item>
+        <item>Умеренно</item>
+        <item>Не рекомендуется</item>
+        <item>Очень не рекомендуется</item>
+    </string-array>
+</resources>
