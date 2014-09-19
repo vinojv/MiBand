@@ -432,8 +432,8 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="new_record_format_str">"%1$s сожжено %2$s кал.
 Каждый новый рекорд приближает вас к лучшей версии себя.
 Не останавливайтесь, двигайтесь вперед."</string>
-    <string name="continue_reach_goal">Hit Goals</string>
-    <string name="continue_tips_format">Your best record is to hit your goal for %1$s days.</string>
+    <string name="continue_reach_goal">Забить голы</string>
+    <string name="continue_tips_format">Ваш лучший рекорд забитых голов за %1$s дн.</string>
     <string name="gram">г</string>
     <string name="kilogram">кг</string>
     <string name="sync_to_server">Синхронизация данных с облаком…</string>
@@ -495,8 +495,8 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="bind_weixin_new_tips">"Для начала свяжитесь с Wechat, 
 затем нажмите Follow для завершения синхронизации."</string>
     <string name="bind_weixin_new_now">Синхронизация с Wechat…</string>
-    <string name="bind_weixin_new_disable_tips">"After link with your Wechat account and follow Mi Band's Wechat service account, 
-you can check information like the number of steps taken through Wechat. You can also see your result status among your friends."</string>
+    <string name="bind_weixin_new_disable_tips">"После привязки вашего аккаунта WeChat и подписки на сервис MiBand, 
+вы сможете проверять количество шагов прямо через Wechat. Также вы сможете следить за результатами ваших друзей."</string>
     <string name="weather_aqi">Кач-во воздуха %s</string>
     <string name="weather_description_rain">Дождливо,</string>
     <string name="weather_description_rain_snow">Снежно,</string>
