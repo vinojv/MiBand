@@ -3,7 +3,7 @@
 -- MIUI Russia miui.su (2014)
 -- 20140919
 -------------------------
-localization_Russian_table = {
+localization_Chinese_table = {
     calories_table={
 
     },
