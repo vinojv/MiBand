@@ -32,7 +32,7 @@
     <string name="date_from_to_short">%1$s-%2$s</string>
     <string name="date_month_day">MMM d</string>
     <string name="date_year_month_day">MMM d, yyyy</string>
-    <string name="date_month_day_short">%1$d/%2$d</string>
+    <string name="date_month_day_short">%1$d.%2$d</string>
     <string name="date_month_day_week">%1$s %2$s</string>
     <string name="date_month_day_week_short">%1$d.%2$d %3$s</string>
     <string name="date_month">MMMM</string>
@@ -52,19 +52,19 @@
     <string name="friends_search">Поиск</string>
     <string name="friends_invite2">Пригласить</string>
     <string name="statistic_total">Всего</string>
-    <string name="statistic_day_average">Ср. за день</string>
+    <string name="statistic_day_average">Ср.за день</string>
     <string name="statistic_detail">Детально</string>
     <string name="day_active_detail">Детально за день</string>
     <string name="alarm">Будильник</string>
     <string name="unlock_screen">Разблокировка экрана</string>
     <string name="about">О приложении</string>
-    <string name="unit_kilometer">км</string>
-    <string name="unit_meter">м</string>
-    <string name="unit_calorie">ккал</string>
-    <string name="unit_step">шагов</string>
-    <string name="unit_hour">ч</string>
-    <string name="unit_min">мин</string>
-    <string name="unit_min_short">м</string>
+    <string name="unit_kilometer">" км "</string>
+    <string name="unit_meter">" м "</string>
+    <string name="unit_calorie">" ккал "</string>
+    <string name="unit_step">" шагов "</string>
+    <string name="unit_hour">" ч. "</string>
+    <string name="unit_min">" мин. "</string>
+    <string name="unit_min_short">" м. "</string>
     <string name="upgrade_tip">Уведомление об обновлении</string>
     <string name="hot_des">Энергия</string>
     <string name="noti_bracelet_low_battery_title">Низкий заряд батареи</string>
@@ -147,8 +147,8 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="set_person_goal">Установить цель</string>
     <string name="feedback">Отчет</string>
     <string name="smart_wake_up">Умный будильник</string>
-    <string name="smart_wake_up_info">"Разбудить за 30 минут. 
-Я хочу встать, когда мое тело проснулось."</string>
+    <string name="smart_wake_up_info">"Разбудить во время фазы быстрого сна, но не
+позднее, чем за 30 минут до заданного времени."</string>
     <string name="alarm_cycle">Повтор</string>
     <string name="login_failed_check_sys_time">Не удалось авторизоваться, проверьте настройки времени и используйте время сети.</string>
     <string name="everyday">Ежедневно</string>
@@ -184,25 +184,25 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="stat_step_active_total">Время активности</string>
     <string name="stat_step_walk_total">Ходьба</string>
     <string name="stat_step_run_total">Бег</string>
-    <string name="stat_step_average">Ср. шагов</string>
-    <string name="stat_step_distance_average">Ср. дистанция</string>
-    <string name="stat_step_calorie_average">Ср. сожжено</string>
-    <string name="stat_step_active_average">Ave. активность</string>
-    <string name="stat_step_walk_average">Ср. шагов</string>
-    <string name="stat_step_run_average">Ср. бег</string>
+    <string name="stat_step_average">Ср.шагов</string>
+    <string name="stat_step_distance_average">Ср.дистанция</string>
+    <string name="stat_step_calorie_average">Ср.сожжено</string>
+    <string name="stat_step_active_average">Ср.активность</string>
+    <string name="stat_step_walk_average">Ср.шагов</string>
+    <string name="stat_step_run_average">Ср.бег</string>
     <string name="stat_sleep">Время сна</string>
-    <string name="stat_sleep_deep">Глубокий сон</string>
-    <string name="stat_sleep_shallow">Легкий сон</string>
+    <string name="stat_sleep_deep">Медленный сон</string>
+    <string name="stat_sleep_shallow">Быстрый сон</string>
     <string name="stat_sleep_achievement">Прогресс</string>
     <string name="stat_sleep_time">Лег спать в</string>
     <string name="stat_sleep_rise_time">Проснулся</string>
     <string name="stat_sleep_wake">Время пробуждения</string>
-    <string name="stat_sleep_average">Ср. сон</string>
-    <string name="stat_sleep_deep_average">Ср. глубокий сон</string>
-    <string name="stat_sleep_shallow_average">Ср. легкий сон</string>
+    <string name="stat_sleep_average">Ср.сон</string>
+    <string name="stat_sleep_deep_average">Ср.медленный сон</string>
+    <string name="stat_sleep_shallow_average">Ср.быстрый сон</string>
     <string name="stat_sleep_time_average">Заснул в</string>
     <string name="stat_sleep_rise_time_average">Проснулся в</string>
-    <string name="stat_sleep_wake_average">Awake/Day</string>
+    <string name="stat_sleep_wake_average">Пробуждение/День</string>
     <string name="bmenu_dynamic">Обновления</string>
     <string name="bmenu_device">Устройства</string>
     <string name="bmenu_my">Я</string>
@@ -230,7 +230,7 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="help_info_1">Только Android 4.4 и старше поддерживают Mi Band.</string>
     <string name="help_title_2">Mi Band полностью заряжен?</string>
     <string name="help_info_2">Убедитесь, что вы правильно зарядили MI Band. Во время зарядки будут мигать зеленые лампочки.</string>
-    <string name="help_info_3">If your Mi Band is paired with an existing phone or if your Mi Band is not close to your phone, please turn off</string>
+    <string name="help_info_3">Если ваш Mi Band связан с текущим телефоном или Mi Band не близко к нему, выключите его.</string>
     <string name="help_info_4">"ы можете обратиться в службу обслуживания клиентов последующей поддержки.
 
 Телефон обслуживания клиентов (Китай): 400-100-5678
@@ -247,7 +247,7 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="fw_failed_help_title1">Почему я должен обновлять прошивку?</string>
     <string name="fw_failed_help_tips1">Обновление прошивки Mi Band улучшит его производительность. Так же это добавит новые возможности устройству.</string>
     <string name="fw_failed_help_title2">Что делать если не удалось обновить?</string>
-    <string name="fw_failed_help_tips2">Please always make sure device power stays above 5%, and Mi Band is properly connected with phone during update process.</string>
+    <string name="fw_failed_help_tips2">Всегда следите за тем, чтобы Mi Band был заряжен более чем на 5% и был соединен с телефоном во время обновления.</string>
     <string name="clock_closed">Выкл</string>
     <string name="new_version_available">Найдена новая версия</string>
     <string name="downloading_apk">Mi Band</string>
@@ -255,7 +255,7 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="download_failed">Не удалось загрузить APK.</string>
     <string name="start_download">Загрузка в фоновом режиме…</string>
     <string name="apk_download_ok">Загрузка Mi Band завершена.</string>
-    <string name="bracelet_login_info_2">Авторизуясь, вы принимаете </string>
+    <string name="bracelet_login_info_2">"Авторизуясь, вы принимаете "</string>
     <string name="please_input_gender">Выберите пол</string>
     <string name="input_precise_person_info">Заполните личную информацию. Это поможет достичь лучших результатов.</string>
     <string name="age">Возраст</string>
@@ -263,19 +263,19 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="check_upgrade">Проверить обновления</string>
     <string name="visit_micom">Официальный сайт</string>
     <string name="apk_uptodate">У вас установлена последняя версия.</string>
-    <string name="local_app_failed">Failed to obtain current version data.</string>
+    <string name="local_app_failed">Не удалось получить информацию о текущей версии данных.</string>
     <string name="checking_new_apk">Проверка обновления…</string>
     <string name="please_knock_bracelet">Нажмите на Mi Band для привязки</string>
     <string name="dynamic_title_sleep">Прошлая ночь</string>
     <string name="dynamic_title_step">Сегодня</string>
     <string name="dynamic_step_tip">Пройдено шагов</string>
     <string name="dynamic_sleep_tip">Всего</string>
-    <string name="dynamic_sleep_deep_title">Глубокий сон %s</string>
+    <string name="dynamic_sleep_deep_title">Медленный сон %s</string>
     <string name="dynamic_detail_sleep_title_yesterday">Сон прошлой ночью</string>
     <string name="dynamic_detail_step_share_title">%s активность</string>
     <string name="dynamic_detail_step_title_today">Сегодня</string>
-    <string name="dynamic_sleep_deep">Глубокий сон</string>
-    <string name="dynamic_sleep_shallow">Легкий сон</string>
+    <string name="dynamic_sleep_deep">Медленный сон</string>
+    <string name="dynamic_sleep_shallow">Быстрый сон</string>
     <string name="dynamic_sleep_active">Время пробуждения</string>
     <string name="dynamic_sleep_active_start">Готов ко сну</string>
     <string name="dynamic_sleep_active_end">Готов встать</string>
@@ -307,8 +307,8 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="unbind">Отвязать</string>
     <string name="unbind_short">Отвязать</string>
     <string name="firmware_version">Версия прошивки</string>
-    <string name="step_per_day"> шагов/день</string>
-    <string name="remain_days_format">%s дн. с последней зарядки</string>
+    <string name="step_per_day">" шагов/ден"</string>
+    <string name="remain_days_format">Дней с последней зарядки: %s</string>
     <string name="remain_days_today_format">Менее 1 дня с посл.зарядки устройства</string>
     <string name="blue">Синяя</string>
     <string name="red">Красная</string>
@@ -335,7 +335,7 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="device_list">Ближайшие Mi Bands</string>
     <string name="unbinding">Отвязываем…</string>
     <string name="share_sleep_title">Прошлая ночь</string>
-    <string name="share_sleep_title_average">Ср. сон</string>
+    <string name="share_sleep_title_average">Ср.сон</string>
     <string name="share_sleep_title_daily">Сон</string>
     <string name="share_step_goal_succ_title_today">Сегодняшняя цель достигнута!</string>
     <string name="share_step_goal_succ_title">Достигнуть цель</string>
@@ -361,20 +361,20 @@ Mi Band поддерживает только Android 4.4 и старше."</str
  %3$s, и вы сохранили %4$s галлонов бензина.
 (спасибо за сохранение Земли)
 Лучший рекорд %5$s, пройдено %6$s шагов."</string>
-    <string name="marathon_format_0">Около %1$s марафонов.</string>
-    <string name="marathon_format_1">Более %1$s марафонов.</string>
-    <string name="half_marathon_format_0">Около %1$s полу-марафонов."</string>
-    <string name="half_marathon_format_1">Более %1$s полу-марафонов.</string>
+    <string name="marathon_format_0">около %1$s марафонов.</string>
+    <string name="marathon_format_1">более %1$s марафонов.</string>
+    <string name="half_marathon_format_0">около %1$s полу-марафонов."</string>
+    <string name="half_marathon_format_1">более %1$s полу-марафонов.</string>
     <string name="share_continue_goal_format">"Всего пройдено %1$s, %2$s шагов в день.
 %3$s
 %4$s"</string>
     <string name="share_continue_goal_format_run">"Всего пройдено %1$s, бег %2$s.
 %3$s.
 %4$s"</string>
-    <string name="share_sleep_description">"В стадии глубокого сна %1$s ч. %2$s мин., 
-в стадии легкого сна %3$sh ч. 4$s мин..
+    <string name="share_sleep_description">"В стадии медленного сна %1$s ч. %2$s мин., 
+в стадии быстрого сна %3$sh ч. 4$s мин..
 Заснул: %5$s. Проснулся: %6$s"</string>
-    <string name="share_sleep_description_average">"Провел в среднем %1$s ч. %2$s мин. в стадии глубокого сна и %3$s ч. %4$s мин. в стадии легкого сна.
+    <string name="share_sleep_description_average">"Провел в среднем %1$s ч. %2$s мин. в стадии медленного сна и %3$s ч. %4$s мин. в стадии быстрого сна.
 Вы спали около %5$s, среднее время пробуждения %6$s."</string>
     <string name="smart_alarm_notify">Умный будильник</string>
     <string name="battery_charge_full">Батарея заряжена</string>
@@ -390,8 +390,8 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="unlock_screen_modify_unlock">"Если вы хотите изменить настройки,
 перейдите в Настройки->Безопасность."</string>
     <string name="bind_weixin_title">Синхронизируйтесь, чтобы делится и соревноваться с друзьями.</string>
-    <string name="step1">Шаг 1) </string>
-    <string name="step2">Шаг 2) </string>
+    <string name="step1">"Шаг 1) "</string>
+    <string name="step2">"Шаг 2) "</string>
     <string name="bind_weixin_tips_1">Нажмите Сгенерировать QR код, сгенерируйте и сохраните QR код в галерее.</string>
     <string name="bind_weixin_tips_2">Нажмите Запутить Wechat, нажмите Сканировать QR код и нажмите Альбом для выбора сохраненного QR кода.</string>
     <string name="bind_weixin_now">Генерация QR кода…</string>
@@ -400,9 +400,9 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="bind_weixin_save">Сохранено в галерею,</string>
     <string name="incoming_call_notify">Входящий вызов</string>
     <string name="incoming_call_notify_tips">Уведомлять о пропускаемом вызове в течении %s сек.</string>
-    <string name="share_step_walk">Я прошел</string>
-    <string name="one_week">За эту неделю, </string>
-    <string name="walked">Пройдено </string>
+    <string name="share_step_walk">я прошел</string>
+    <string name="one_week">"За эту неделю, "</string>
+    <string name="walked">"Пройдено "</string>
     <string name="come_from_xiaomi_bracelet">От Mi Band</string>
     <string name="unlock_screen_invalid">Что делать, если я не могу разблокировать?</string>
     <string name="unlock_screen_help_title0">Mi Band достаточно близко к устройству?</string>
@@ -432,8 +432,8 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="new_record_format_str">"%1$s сожжено %2$s ккал.
 Каждый новый рекорд приближает вас к лучшей версии себя.
 Не останавливайтесь, двигайтесь вперед."</string>
-    <string name="continue_reach_goal">Забить голы</string>
-    <string name="continue_tips_format">Ваш лучший рекорд забитых голов за %1$s дн.</string>
+    <string name="continue_reach_goal">Достигнуть цели</string>
+    <string name="continue_tips_format">Ваш лучший рекорд достигнуть цель за %1$s дн.</string>
     <string name="gram">г</string>
     <string name="kilogram">кг</string>
     <string name="sync_to_server">Синхронизация данных с облаком…</string>
@@ -442,13 +442,13 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="setting_feedback_send">Отправить</string>
     <string name="setting_feedback_hint">Введите суть жалобы/предложения (на английском).</string>
     <string name="setting_feedback_address">Как нам с вами связаться?</string>
-    <string name="setting_about_fw">Версия прошивки </string>
-    <string name="setting_about_app">Версия приложения </string>
-    <string name="stop">Стоп</string>
-    <string name="start">Старт</string>
+    <string name="setting_about_fw">"Версия прошивки "</string>
+    <string name="setting_about_app">"Версия приложения "</string>
+    <string name="stop" />
+    <string name="start" />
     <string name="no_wear_bracelet">Вы не надевали Mi Band прошлой ночью.</string>
     <string name="no_wear_user_modified">Добавить данные о моем сне вручную</string>
-    <string name="dynamic_pull_connect_failed">Не удалось подключиться, повторите еще раз.</string>
+    <string name="dynamic_pull_connect_failed">Не удалось подключиться.</string>
     <string name="dynamic_pull_connect_failed_hint">Убедитесь, что Mi Band достаточно заряжен.</string>
     <string name="dynamic_pull_not_sync_today">Сегодня не синхронизировалось.</string>
     <string name="dynamic_pull_last_sync_time">Последняя синхронизация %s</string>
@@ -490,14 +490,14 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="share_miliao_too_old">Верси MiTalk устарела.</string>
     <string name="first_use_days_today_format">Менее 1 дня с первого использования</string>
     <string name="first_use_remain_days_format">%s дн. с первого использования</string>
-    <string name="until_hit_goals">Continue hit goals until %s</string>
+    <string name="until_hit_goals">Продолжить достижение целей с %s</string>
     <string name="continue_reach_goal_new_record">Достигнут новый рекорд</string>
     <string name="bind_weixin_new_tips">"Для начала свяжитесь с Wechat, 
 затем нажмите Follow для завершения синхронизации."</string>
     <string name="bind_weixin_new_now">Синхронизация с Wechat…</string>
     <string name="bind_weixin_new_disable_tips">"После привязки вашего аккаунта WeChat и подписки на сервис MiBand, 
 вы сможете проверять количество шагов прямо через Wechat. Также вы сможете следить за результатами ваших друзей."</string>
-    <string name="weather_aqi">Кач-во воздуха %s</string>
+    <string name="weather_aqi">кач-во воздуха: %s</string>
     <string name="weather_description_rain">Дождливо,</string>
     <string name="weather_description_rain_snow">Снежно,</string>
     <string name="weather_description_snow">Снежно,</string>
@@ -506,16 +506,16 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="weather_description_cloudy">Облачно,</string>
     <string name="weather_description_overcast">Ясно,</string>
     <string name="weather_description_fog">Туман,</string>
-    <string name="weather_description_haze">Haze,</string>
+    <string name="weather_description_haze">Дымка,</string>
     <string name="fw_low_battery_title">Перед обновлением зарядите устройство.</string>
     <string name="fw_low_battery_tips">"Не удалось обновить Mi Band из за маленького уровня заряда (менее 5%).
 Mi Band начнет обновление автоматически после зарядки."</string>
     <string name="fw_low_battery_view_help">Помощь</string>
-    <string name="in">В </string>
+    <string name="in">"В "</string>
     <string name="main_ui_share_tips">"Сегодня тренировался %1$s%2$s.
 %3$s"</string>
     <string name="ran">пробежал</string>
-    <string name="main_ui_sleep_share_tips">"Легкий сон %1$s%2$s
+    <string name="main_ui_sleep_share_tips">"Быстрый сон %1$s%2$s
 Заснул в %3$s, проснулся в %4$s."</string>
     <string name="awake_format">, просыпался раз: %1$s.</string>
     <string name="awake_format_1">, проснулся один раз.</string>

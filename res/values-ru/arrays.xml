@@ -51,11 +51,11 @@
         <item>Keep practicing, winning will take care of itself.</item>
     </string-array>
     <string-array name="weather_aqi_descriptions">
-        <item>Отлично</item>
-        <item>Хорошо</item>
-        <item>Умеренно</item>
-        <item>Умеренно</item>
-        <item>Не рекомендуется</item>
-        <item>Очень не рекомендуется</item>
+        <item>отличное</item>
+        <item>хорошее</item>
+        <item>умеренное</item>
+        <item>умеренное</item>
+        <item>плохое</item>
+        <item>очень плохое</item>
     </string-array>
 </resources>

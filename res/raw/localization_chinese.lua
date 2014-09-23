@@ -20,14 +20,14 @@ localization_Chinese_table = {
     hour_minute_format='%d ч. %d мин.',
     hour_format='%d ч.',
 
-    welcome_use="Привет, я твой Mi Band",
-    last_week_walked_format='За прошлый месяц пройдено шагов: %d.',
-    last_week_walked_info_format='Пройдено %d км, сожжено %d кал.',
+    welcome_use="Привет, я ваш Mi Band.",
+    last_week_walked_format='За прошлую неделю пройдено шагов: %d.',
+    last_week_walked_info_format='Пройдено %d км, сожжено %d ккал.',
     last_month_walked_format='За прошлый месяц пройдено шагов: %d.',
-    last_month_walked_info_format='Пройдено %d км, сожжено %d кал.',
+    last_month_walked_info_format='Пройдено %d км, сожжено %d ккал.',
 
     get_over_format=", около %d гр. жира.",
-    click_to_get_help="Узнайте обо мне побольше",
+    click_to_get_help="Узнайте обо мне побольше.",
     take_a_walk="Прогуляйтесь с Mi Band.",
     take_a_walk_info="Mi Band будет отслеживать вашу активность и поможет сохранить здоровье.",
     unlock_hint="Разблокируйте телефон своим Mi Band",
@@ -49,14 +49,14 @@ localization_Chinese_table = {
     activie_run_format_0="Бег %s. Хорошая работа!",
     activie_run_format_1="Бег %s. Фантастика!",
     activie_run_format_2="Бег %s, Невероятная выносливость!",
-    activie_run_consumed="Сожжено %d кал. %s",
+    activie_run_consumed="Сожжено %d ккал. %s",
 
     get_distance_format=", всего %d м.",
     activity_walk_format="%s Пройдено %d шагов %s",
-    activity_walk_consumed_format="Сожжено %d кал %s",
+    activity_walk_consumed_format="Сожжено %d ккал. %s",
 
     activity_activity_format="%s %s тренировка %s",
-    last_night_sleeped_good_format="Прошлой ночью ты спал %s. Чудесный сон!",
+    last_night_sleeped_good_format="Прошлой ночью ты спал %s Чудесный сон!",
     last_night_sleeped_normal_format="Прошлой ночью ты спал %s.",
     deep_sleep_format="В стадии глубокого сна %s.",
 
