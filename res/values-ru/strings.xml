@@ -37,7 +37,7 @@
     <string name="date_month_day_week_short">%1$d.%2$d %3$s</string>
     <string name="date_month">MMMM</string>
     <string name="date_year_month">MMM, yyyy</string>
-    <string name="network_error">Не удалось подключиться к сети. Проверьте подключение и повторите попытку.</string>
+    <string name="network_error">Не удалось подключиться к интернету</string>
     <string name="prev_step">Назад</string>
     <string name="next_step">Далее</string>
     <string name="cancel">Отмена</string>
@@ -78,10 +78,10 @@
     <string name="search_devices_info">Наденьте Mi Band и находитесь рядом с телефоном</string>
     <string name="search_bracelet_ok">Mi Band найден!</string>
     <string name="found_bracelet_info">Когда на Band будут мигать лампочки, нажмите несколько раз для привязки.</string>
-    <string name="bind_bracelet_ok">Успешно связано.</string>
+    <string name="bind_bracelet_ok">Mi Band привязан</string>
     <string name="device_not_response">Почему Mi Band не мигает?</string>
-    <string name="action_local_ota">Обновление с SD карты</string>
-    <string name="bracelet_not_found_title">Подключите зарядное устройство.</string>
+    <string name="action_local_ota">Выбрать файл обновления</string>
+    <string name="bracelet_not_found_title">Подключите зарядное устройство</string>
     <string name="bracelet_not_found_info">Повторите поиск, пока вы не увидите мигающий зеленый огонек на Mi Band.</string>
     <string name="get_help">Помощь</string>
     <string name="system_not_support_title">Система не поддерживается</string>
@@ -98,7 +98,7 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="congrats">Поздравляем!</string>
     <string name="start_use">Поехали!</string>
     <string name="share">Поделиться</string>
-    <string name="person_info_finished_info">Настройка Mi Band завершена.</string>
+    <string name="person_info_finished_info">Настройка Mi Band завершена</string>
     <string name="kg">кг</string>
     <string name="new_friend_cancel">Отказаться</string>
     <string name="new_friend_accept">Принять</string>
@@ -106,7 +106,7 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="share_blog_cancel">Отмена</string>
     <string name="share_blog_title">Опубликовать обновления</string>
     <string name="share_blog_share">Опубликовать</string>
-    <string name="share_blog_message_hint">Скажите что-нибудь…</string>
+    <string name="share_blog_message_hint">Напишите что-нибудь…</string>
     <string name="share_blog_other">Поделиться</string>
     <string name="distance">Расстояние</string>
     <string name="points_exchange">Обменять очки</string>
@@ -131,10 +131,10 @@ Mi Band поддерживает только Android 4.4 и старше."</str
 После выхода связь будет потеряна."</string>
     <string name="set_mili_name">Назовите свой Mi Band</string>
     <string name="mili_name">Название Mi Band</string>
-    <string name="set_mili_name_ok">Название Mi Band установлено.</string>
-    <string name="set_mili_name_fail">Не удалось присвоить название Mi Band.</string>
-    <string name="mili_name_too_long">Название слишком длинное.</string>
-    <string name="mili_rename_fail">Не удалось обновить название Mi Band.</string>
+    <string name="set_mili_name_ok">Название Mi Band установлено</string>
+    <string name="set_mili_name_fail">Не удалось присвоить название Mi Band</string>
+    <string name="mili_name_too_long">Название слишком длинное</string>
+    <string name="mili_rename_fail">Не удалось обновить название Mi Band</string>
     <string name="mili_unbind_question">После того, как вы отвяжите Mi Band ваш телефон не сможет получать от него данные.</string>
     <string name="share_to_content">Поделиться своей жизнью с Mi Band</string>
     <string name="share_goal_tips_succ">"Есть отличный план?
