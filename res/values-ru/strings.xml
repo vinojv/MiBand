@@ -541,8 +541,8 @@ Mi Band начнет обновление автоматически после 
     <string name="lab_factory_sport_button_restart">Перезапуск</string>
     <string name="lab_factory_sport_button_stop">Стоп</string>
     <string name="lab_factory_sport_come_on">Продолжайте!</string>
-    <string name="lab_factory_sport_continuous_ropeskipping">Streak</string>
-    <string name="lab_factory_sport_continuous_situp">Streak</string>
+    <string name="lab_factory_sport_continuous_ropeskipping">Период</string>
+    <string name="lab_factory_sport_continuous_situp">Период</string>
     <string name="lab_factory_sport_device_preparing">Готово</string>
     <string name="lab_factory_sport_finish_desc">Готово</string>
     <string name="lab_factory_sport_gb_count">Лучший результат %d раз</string>
@@ -656,10 +656,10 @@ Mi Band начнет обновление автоматически после 
     <string name="stat_step_walk_duration">Ходьба(время)</string>
     <string name="stat_step_walk_duration_average">Ходьба (ср.время)</string>
     <string name="state_bind_failed">Не удалось добавить аккаунт</string>
-    <string name="state_binded">Signed in</string>
+    <string name="state_binded">Авторизовано</string>
     <string name="state_binded_nickname">Добавить QQ аккаунт %s</string>
     <string name="state_unbind_success">Удалить QQ аккаунт</string>
-    <string name="state_unbinded">Signed out</string>
+    <string name="state_unbinded">Не авторизовано</string>
     <string name="user_agreement_prefix">Для использования продукта вы должны принять:\n</string>
     <string name="vibrate_notify">Вибрация для уведомлений</string>
     <string name="vibrate_notify_tips">Вибрировать, при получении уведомления.</string>
@@ -668,7 +668,7 @@ Mi Band начнет обновление автоматически после 
     <string name="bracelet_store_desc">Магазин</string>
     <string name="buy_bracelet_desc">Купить браслет</string>
     <string name="closed">Выкл</string>
-    <string name="lab_factory_internal_test">运动模式分析测试</string>
+    <string name="lab_factory_internal_test">Анализ движения</string>
     <string name="please_input_birthday">День рождения</string>
     <string name="share_blog_pengyouquan">Моменты</string>
     <string name="sport_coming_soon">正加急赶工中，敬请期待！</string>
