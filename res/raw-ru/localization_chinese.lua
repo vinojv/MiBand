@@ -21,15 +21,15 @@ localization_Chinese_table = {
     hour_minute_format='%d ч. %d мин.',
     hour_format='%d ч.',
 
-    welcome_use="Привет, я ваш Mi Band.",
+    welcome_use="Привет, я ваш Mi Band",
     last_week_walked_format='За прошлую неделю пройдено шагов: %d.',
     last_week_walked_info_format='Пройдено %d км, сожжено %d ккал.',
     last_month_walked_format='За прошлый месяц пройдено шагов: %d.',
     last_month_walked_info_format='Пройдено %d км, сожжено %d ккал.',
 
     get_over_format=", около %d гр. жира.",
-    click_to_get_help="Узнайте обо мне побольше.",
-    take_a_walk="Прогуляйтесь с Mi Band.",
+    click_to_get_help="Узнайте обо мне побольше",
+    take_a_walk="Прогуляйтесь с Mi Band",
     take_a_walk_info="Mi Band будет отслеживать вашу активность в течение дня.",
     unlock_hint="Разблокируйте телефон своим Mi Band",
     unlock_hint_info="Попрощайтесь со старыми временами",
@@ -70,7 +70,6 @@ localization_Chinese_table = {
     get_distance_format=", всего %d м.",
     activity_walk_format="%s Пройдено %d шагов %s",
     activity_walk_consumed_format="Сожжено %d ккал. %s",
-	
     activity_rope_skipping_format="%s jumped rope %d times",
     activity_situp_format="%s приседаний: %d",
     activity_consumed_format="Сожжено ккал: %d %s",
