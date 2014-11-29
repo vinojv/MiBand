@@ -91,7 +91,7 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="system_low_info">Обновите систему до Android 4.4 или старше для поддержки Mi Band.</string>
     <string name="bind_bracelet">Mi Band найден</string>
     <string name="bracelet_login_title">Привет, я Mi Band :)</string>
-    <string name="bracelet_login_info">Используйте свой Mi аккаунт для отслеживания вашMi Cloud предоставит советы в зависимости от вашей активности и сна.</string>
+    <string name="bracelet_login_info">Используйте свой Mi аккаунт для отслеживания вашего здоровья и успехов в фитнесе.</string>
     <string name="male">Мужской</string>
     <string name="female">Женский</string>
     <string name="cm">см</string>
@@ -194,14 +194,14 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="stat_sleep_deep">Медленный сон</string>
     <string name="stat_sleep_shallow">Быстрый сон</string>
     <string name="stat_sleep_achievement">Прогресс</string>
-    <string name="stat_sleep_time">Лег спать в</string>
-    <string name="stat_sleep_rise_time">Проснулся</string>
+    <string name="stat_sleep_time">Заснул</string>
+    <string name="stat_sleep_rise_time">Пробуждение</string>
     <string name="stat_sleep_wake">Время пробуждения</string>
     <string name="stat_sleep_average">Ср.сон</string>
     <string name="stat_sleep_deep_average">Ср.медленный сон</string>
     <string name="stat_sleep_shallow_average">Ср.быстрый сон</string>
     <string name="stat_sleep_time_average">Заснул в</string>
-    <string name="stat_sleep_rise_time_average">Проснулся в</string>
+    <string name="stat_sleep_rise_time_average">Пробуждение в</string>
     <string name="stat_sleep_wake_average">Пробуждение/День</string>
     <string name="bmenu_dynamic">Обновления</string>
     <string name="bmenu_device">Устройства</string>
@@ -274,9 +274,9 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="dynamic_detail_sleep_title_yesterday">Сон прошлой ночью</string>
     <string name="dynamic_detail_step_share_title">%s активность</string>
     <string name="dynamic_detail_step_title_today">Сегодня</string>
-    <string name="dynamic_sleep_deep">Медленный сон</string>
-    <string name="dynamic_sleep_shallow">Быстрый сон</string>
-    <string name="dynamic_sleep_active">Время пробуждения</string>
+    <string name="dynamic_sleep_deep">Медленный</string>
+    <string name="dynamic_sleep_shallow">Быстрый</string>
+    <string name="dynamic_sleep_active">Пробуждение</string>
     <string name="dynamic_sleep_active_start">Готов ко сну</string>
     <string name="dynamic_sleep_active_end">Готов встать</string>
     <string name="dynamic_tip_unweared">Mi Band не на руке</string>
@@ -285,7 +285,7 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="dynamic_tip_step_sync_time_hour">%d ч. назад</string>
     <string name="dynamic_tip_step_sync_time_min">%d мин. назад</string>
     <string name="dynamic_tip_sync_progress">Синхронизация %d%%</string>
-    <string name="dynamic_tip_sync_time">%s синхронизировано</string>
+    <string name="dynamic_tip_sync_time">Синхронизировано: %s</string>
     <string name="dynamic_detail_modify_sleep_start_time">Изменить время начала сна</string>
     <string name="dynamic_detail_modify_sleep_end_time">Изменить время пробуждения</string>
     <string name="time_format_hour_min">%1$s ч. %2$s м.</string>
@@ -294,9 +294,9 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="action_pop_smart_alarms">Будильник</string>
     <string name="action_pop_person_info">Мой профиль</string>
     <string name="action_pop_unlock_screen">Разблокировка экрана</string>
-    <string name="action_pop_weixin_enter">Синхронизация с Wechat</string>
-    <string name="start_weixin">Открыть Wechat</string>
-    <string name="start_weixin_not_installed">Запустить Wechat (не установлено)</string>
+    <string name="action_pop_weixin_enter">Синхронизация с WeChat</string>
+    <string name="start_weixin">Открыть WeChat</string>
+    <string name="start_weixin_not_installed">Запустить WeChat (не установлено)</string>
     <string name="action_pop_about">О приложении</string>
     <string name="find_bracelet">Поиск Mi Band</string>
     <string name="light_color">Световая индикация</string>
@@ -364,7 +364,7 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="share_continue_goal_format_run">"Всего пройдено %1$s, бег %2$s, %3$s.
 %4$s"</string>
     <string name="share_sleep_description">"Медленный сон: %1$s ч. %2$s м. | Быстрый сон %3$sh ч. 4$s м.
-Заснул: %5$s | Проснулся: %6$s"</string>
+Заснул: %5$s | Пробуждение: %6$s"</string>
     <string name="share_sleep_description_average">"Провел в среднем
 Медленный сон: %1$sч. %2$sм. | Быстрый сон: %3$sч. %4$sм.
 Сон: %5$s | Пробуждение: %6$s"</string>
@@ -384,8 +384,8 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="bind_weixin_title">Синхронизируйтесь, чтобы делится и соревноваться с друзьями.</string>
     <string name="step1">"Шаг 1) "</string>
     <string name="step2">"Шаг 2) "</string>
-    <string name="bind_weixin_tips_1">Нажмите Сгенерировать QR код, сгенерируйте и сохраните QR код в галерее.</string>
-    <string name="bind_weixin_tips_2">Нажмите Запустить WeChat, нажмите Сканировать QR код и нажмите Альбом для выбора сохраненного QR кода.</string>
+    <string name="bind_weixin_tips_1">Нажмите \"Генерировать QR код\", сгенерируйте и сохраните QR код в галерее.</string>
+    <string name="bind_weixin_tips_2">Нажмите \"Запустить WeChat\", нажмите \"Сканировать QR код\" и нажмите Альбом для выбора сохраненного QR кода.</string>
     <string name="bind_weixin_now">Генерация QR кода…</string>
     <string name="bind_weixin_failed">Ошибка, повторите еще раз.</string>
     <string name="bind_weixin_succ">Успешно связано!</string>
@@ -447,7 +447,7 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="dynamic_pull_syncing_progress">Синхронизировано %s%%</string>
     <string name="dynamic_pull_release_to_sync">Отпустите для синхронизации</string>
     <string name="dynamic_pull_pull_to_sync">Потяните для синхронизации</string>
-    <string name="dynamic_pull_update_report">Обновлено %s записей</string>
+    <string name="dynamic_pull_update_report">Обновлено записей: %s</string>
     <string name="dynamic_pull_sync_error">Не удалось синхронизировать, потяните вниз для обновления.</string>
     <string name="bind_weixin_qrcode_name">Mi Band QR код</string>
     <string name="mili_exit_login_info_unbind">Выход отключит Mi Band от телефона,</string>
@@ -467,12 +467,12 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="share_to_miliao_target_union">Друзья по тренировке</string>
     <string name="no_network_connection">Нет подключения к сети</string>
     <string name="gen_qr_code">Генерировать QR код</string>
-    <string name="bin_weixin_device_not_connect">Mi Band не подключен.</string>
+    <string name="bin_weixin_device_not_connect">Mi Band не подключен</string>
     <string name="share_to_content_sleep">Информация о сне</string>
     <string name="share_to_content_step">Информация о тренировках</string>
     <string name="month">Месяц</string>
     <string name="year">Год</string>
-    <string name="find_bracelet_warning">Поиск Mi Band потребляем много энергии.</string>
+    <string name="find_bracelet_warning">Поиск Mi Band потребляем много энергии</string>
     <string name="second">сек.</string>
     <string name="move_and_capture">Move and Capture</string>
     <string name="share_miliao_too_old">Верси Mi Talk устарела</string>
@@ -480,11 +480,11 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="first_use_remain_days_format">%s дн. с первого использования</string>
     <string name="until_hit_goals">Продолжить достижение целей с %s</string>
     <string name="continue_reach_goal_new_record">Достигнут новый рекорд</string>
-    <string name="bind_weixin_new_tips">"Для начала свяжитесь с Wechat, 
+    <string name="bind_weixin_new_tips">"Для начала свяжитесь с WeChat, 
 затем нажмите Follow для завершения синхронизации."</string>
-    <string name="bind_weixin_new_now">Синхронизация с Wechat…</string>
+    <string name="bind_weixin_new_now">Синхронизация с WeChat…</string>
     <string name="bind_weixin_new_disable_tips">"После привязки вашего аккаунта WeChat и подписки на сервис MiBand, 
-вы сможете проверять количество шагов прямо через Wechat. Также вы сможете следить за результатами ваших друзей."</string>
+вы сможете проверять количество шагов прямо через WeChat. Также вы сможете следить за результатами ваших друзей."</string>
     <string name="weather_aqi">кач-во воздуха: %s</string>
     <string name="weather_description_rain">Дождливо,</string>
     <string name="weather_description_rain_snow">Снежно,</string>
@@ -495,7 +495,7 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="weather_description_overcast">Ясно,</string>
     <string name="weather_description_fog">Туман,</string>
     <string name="weather_description_haze">Дымка,</string>
-    <string name="fw_low_battery_title">Перед обновлением зарядите устройство.</string>
+    <string name="fw_low_battery_title">Перед обновлением зарядите устройство</string>
     <string name="fw_low_battery_tips">"Не удалось обновить Mi Band из за маленького уровня заряда (менее 5%).
 Mi Band начнет обновление автоматически после зарядки."</string>
     <string name="fw_low_battery_view_help">Помощь</string>
@@ -504,7 +504,7 @@ Mi Band начнет обновление автоматически после 
 %3$s"</string>
     <string name="ran">пробежал</string>
     <string name="main_ui_sleep_share_tips">"Быстрый сон %1$s%2$s
-Заснул в %3$s, проснулся в %4$s."</string>
+Заснул в %3$s, пробуждение в %4$s."</string>
     <string name="awake_format">, просыпался раз: %1$s.</string>
     <string name="awake_format_1">, проснулся один раз.</string>
     <string name="discard">Отменить</string>
@@ -613,7 +613,7 @@ Mi Band начнет обновление автоматически после 
     <string name="notify_status_motor_shut_down">выключение браслета.</string>
     <string name="notify_status_motor_smart_alarm">умный будильник.</string>
     <string name="notify_status_motor_test">тест.</string>
-    <string name="restart_bluetooth_tips">Перезапустить Bluetooth.</string>
+    <string name="restart_bluetooth_tips">Перезапустить Bluetooth</string>
     <string name="set_alarm_time">Установить будильник</string>
     <string name="share_step_ranking">Вы обошли пользователей: &lt;b>%s&lt;/b>.</string>
     <string name="signal_strength">Мощность сигнала: </string>
@@ -653,7 +653,7 @@ Mi Band начнет обновление автоматически после 
     <string name="stat_step_walk_calories_average">Ходьба (ср.сожжено)</string>
     <string name="stat_step_walk_distance">Ходьба</string>
     <string name="stat_step_walk_distance_average">Ходьба (ср.расстояние)</string>
-    <string name="stat_step_walk_duration">Ходьба(время)</string>
+    <string name="stat_step_walk_duration">Ходьба (время)</string>
     <string name="stat_step_walk_duration_average">Ходьба (ср.время)</string>
     <string name="state_bind_failed">Не удалось добавить аккаунт</string>
     <string name="state_binded">Авторизовано</string>
@@ -671,7 +671,7 @@ Mi Band начнет обновление автоматически после 
     <string name="lab_factory_internal_test">Анализ движения</string>
     <string name="please_input_birthday">День рождения</string>
     <string name="share_blog_pengyouquan">Моменты</string>
-    <string name="sport_coming_soon">正加急赶工中，敬请期待！</string>
+    <string name="sport_coming_soon">В процессе, подождите!</string>
     <string name="sport_running_altitude">Высота</string>
     <string name="sport_running_average_speed">В среднем</string>
     <string name="sport_running_burn">Сожжено</string>
@@ -683,4 +683,6 @@ Mi Band начнет обновление автоматически после 
     <string name="sport_running_prepare_map">Подготовка карты…</string>
     <string name="sport_running_start_time">Начало</string>
     <string name="sport_running_step">Шагов</string>
+    <string name="stop">конец</string>
+    <string name="start">начало</string>
 </resources>
