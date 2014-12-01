@@ -354,10 +354,10 @@ Mi Band поддерживает только Android 4.4 и старше."</str
  сожжено %3$s ккал, и вы сохранили %4$s галлонов бензина. Предыдущий рекорд %5$s, пройдено %6$s шагов."</string>
     <string name="share_step_description_monthly_run">"%1$s, бег %2$s
  %3$s, и вы сохранили %4$s галлонов бензина. Предыдущий рекорд %5$s, пройдено %6$s шагов."</string>
-    <string name="marathon_format_0">" около %1$s марафонов."</string>
-    <string name="marathon_format_1">" более %1$s марафонов."</string>
-    <string name="half_marathon_format_0">" около %1$s полу-марафонов."</string>
-    <string name="half_marathon_format_1">" более %1$s полу-марафонов."</string>
+    <string name="marathon_format_0">" около %1$s марафонов"</string>
+    <string name="marathon_format_1">" более %1$s марафонов"</string>
+    <string name="half_marathon_format_0">" около %1$s полу-марафонов"</string>
+    <string name="half_marathon_format_1">" более полу-марафона"</string>
     <string name="share_continue_goal_format">"Всего пройдено %1$s, %2$s шагов в день.
 %3$s
 %4$s"</string>
@@ -474,7 +474,7 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="year">Год</string>
     <string name="find_bracelet_warning">Поиск Mi Band потребляем много энергии</string>
     <string name="second">сек.</string>
-    <string name="move_and_capture">Move and Capture</string>
+    <string name="move_and_capture">Фото профиля</string>
     <string name="share_miliao_too_old">Верси Mi Talk устарела</string>
     <string name="first_use_days_today_format">Менее 1 дня с первого использования</string>
     <string name="first_use_remain_days_format">%s дн. с первого использования</string>
@@ -518,7 +518,7 @@ Mi Band начнет обновление автоматически после 
     <string name="bind_qq_health_title">Добавить аккаунт QQ</string>
     <string name="bluetooth">Bluetooth </string>
     <string name="body">Шея</string>
-    <string name="confirm_lazy_day">Сегодня заниматься лень?</string>
+    <string name="confirm_lazy_day">Сегодня лень заниматься?</string>
     <string name="lab_factory_cheat_toast">Не хитрите!</string>
     <string name="lab_factory_disconnected_reminder">Уведомление подключения Bluetooth</string>
     <string name="lab_factory_disconnected_reminder_disconnect">Подключите браслет и повторите заново</string>
