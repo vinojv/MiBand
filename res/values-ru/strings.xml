@@ -363,7 +363,7 @@ Mi Band поддерживает только Android 4.4 и старше."</str
 %4$s"</string>
     <string name="share_continue_goal_format_run">"Всего пройдено %1$s, бег %2$s, %3$s.
 %4$s"</string>
-    <string name="share_sleep_description">"Медленный сон: %1$s ч. %2$s м. | Быстрый сон %3$sh ч. 4$s м.
+    <string name="share_sleep_description">"Медленный сон: %1$s ч. %2$s м. | Быстрый сон %3$s ч. %4$s м.
 Заснул: %5$s | Пробуждение: %6$s"</string>
     <string name="share_sleep_description_average">"Провел в среднем
 Медленный сон: %1$sч. %2$sм. | Быстрый сон: %3$sч. %4$sм.
@@ -636,7 +636,7 @@ Mi Band начнет обновление автоматически после 
     <string name="sport_running_settings">Настройки</string>
     <string name="sport_running_slider_prompt">>>>Разблокировать</string>
     <string name="sport_running_speed">Скорость</string>
-    <string name="sport_running_speed_detail">%d км/ч</string>
+    <string name="sport_running_speed_detail">>%.0f км/ч</string>
     <string name="sport_running_start">Старт</string>
     <string name="sport_running_time_desc">Время</string>
     <string name="sport_share">Поделиться</string>
