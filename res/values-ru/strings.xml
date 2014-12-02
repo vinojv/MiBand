@@ -308,8 +308,8 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="unbind_short">Отвязать</string>
     <string name="firmware_version">Версия прошивки</string>
     <string name="step_per_day">" шагов/день"</string>
-    <string name="remain_days_format">Дней с последней зарядки: %s</string>
-    <string name="remain_days_today_format">Менее 1 дня с посл.зарядки устройства</string>
+    <string name="remain_days_format">Последняя зарадка: %s дн. назад</string>
+    <string name="remain_days_today_format">Последняя зарядка: менее 1 дня назад</string>
     <string name="blue">Синяя</string>
     <string name="red">Красная</string>
     <string name="green">Зеленая</string>
