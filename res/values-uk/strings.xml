@@ -140,7 +140,7 @@ Mi Band підтримує тільки Android 4.4 і новіше."</string>
       <string name="share_goal_tips_succ">"Є чудовий план?
 Зробіть свій перший крок".</string>
       <string name="share_goal_tips_fail">Ви близько до наміченої мети.</string>
-      <string name="person_info_goal_info">"Виходячи з введених даних, ми пропонуємо вам тренуватися не менше 40 хвилин в день. 
+      <string name="person_info_goal_info">"Виходячи з введених даних, ми пропонуємо вам тренуватися не менше 40 хвилин на день. 
 Це приблизно 8000 кроків."</string>
       <string name="person_info_goal_info_young">"Виходячи з введених даних, ми пропонуємо вам тренуватися не менше 60 хвилин на день. 
 Це приблизно 12000 кроків."</string>
@@ -381,7 +381,7 @@ Mi Band підтримує тільки Android 4.4 і новіше."</string>
       <string name="unlock_screen_set_success">Встановлена розблокування екрану за допомогою Mi Band.</string>
       <string name="unlock_screen_modify_unlock">"Якщо ви хочете змінити налаштування,
 перейдіть в Налаштування > Екран блокування."</string>
-      <string name="bind_weixin_title">Синхронизируйтесь, щоб ділиться і змагатися з друзями.</string>
+      <string name="bind_weixin_title">Синхронізуйтесь, щоб ділиться і змагатися з друзями.</string>
       <string name="step1">"Крок 1) "</string>
       <string name="step2">"Крок 2) "</string>
       <string name="bind_weixin_tips_1">Натисніть \"Генерувати QR-код\", згенеруйте і збережіть QR код в галереї.</string>
@@ -455,8 +455,8 @@ Mi Band підтримує тільки Android 4.4 і новіше."</string>
       <string name="mili_exit_login_info_continue_tip">Все одно вийти?</string>
       <string name="mili_exit_login_info_exiting">Вихід…</string>
       <string name="back">Назад</string>
-      <string name="enable_debug_log">Режим відладки запущений!</string>
-      <string name="disable_debug_log">Режим відладки відключений!</string>
+      <string name="enable_debug_log">Режим налагодження запущений!</string>
+      <string name="disable_debug_log">Режим налагодження відключений!</string>
       <string name="fw_upgrade">Оновлення прошивки</string>
       <string name="fw_upgrade_tips">Переконайтеся, що Mi Band буде біля телефону під час прошивки.</string>
       <string name="fw_upgrade_progress">Завершено %s%%</string>
