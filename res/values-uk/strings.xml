@@ -98,8 +98,8 @@ Mi Band підтримує тільки Android 4.4 і новіше."</string>
       <string name="congrats">Вітаємо!</string>
       <string name="start_use">Поїхали!</string>
       <string name="share">Поділитися</string>
-         <string name="person_info_finished_info">Налаштування Mi Band завершено</string>
-      <string name="кг">кг</string>
+      <string name="person_info_finished_info">Налаштування Mi Band завершено</string>
+      <string name="kg">кг</string>
       <string name="new_friend_cancel">Відмовитися</string>
       <string name="new_friend_accept">Прийняти</string>
       <string name="search_devices_title">Пошук Mi Band</string>
@@ -110,7 +110,7 @@ Mi Band підтримує тільки Android 4.4 і новіше."</string>
       <string name="share_blog_other">Поділитися</string>
       <string name="distance">Відстань</string>
       <string name="points_exchange">Обміняти окуляри</string>
-      <string name="ТДВ">Загальна відстань</string>
+      <string name="odo">Загальна відстань</string>
       <string name="daily_sporty">Кроків за день</string>
       <string name="unknown_location">Невідоме місцезнаходження:</string>
       <string name="km">км</string>
@@ -151,11 +151,11 @@ Mi Band підтримує тільки Android 4.4 і новіше."</string>
 пізніше, ніж за 30 хвилин до визначеного часу."</string>
       <string name="alarm_cycle">Повтор</string>
       <string name="login_failed_check_sys_time">Не вдалося авторизуватися, перевірте налаштування часу і використовуйте час мережі.</string>
-      <string name="повсякденному">Щодня</string>
+      <string name="everyday">Щодня</string>
       <string name="mon_fri">З ПН. по ПТ.</string>
       <string name="mon_sat">З ПН. по СБ.</string>
       <string name="device_not_found_not_knocked">Повторіть пошук після натискання на Mi Band під час миготіння світлового індикатора.</string>
-      <string name="статистика">Статистика</string>
+      <string name="statistic">Статистика</string>
       <string name="mili_unbind_question_content">Якщо ви відв\'яжите свій Мі Band, то зможете прив\'язати інший.</string>
       <string name="mili_unbind_question_content_1">Крім того, ви не зможете розблокувати екран даними Mi Band після відв\'язування.</string>
       <string name="mili_reset_info">"Буде очищена інформація з Мі Band та проведено скидання налаштувань. 
@@ -168,7 +168,7 @@ Mi Band підтримує тільки Android 4.4 і новіше."</string>
       <string name="modify_signiture_hint">Статус</string>
       <string name="modify_nickname">Змінити ім\'я</string>
       <string name="personal_info">Профіль</string>
-      <string name="підтвердити">OK</string>
+      <string name="confirm">OK</string>
       <string name="stat_steps">Кроків</string>
       <string name="stat_steps_active_time">Тривалість</string>
       <string name="stat_steps_consecutive_active">Найбільшу</string>
