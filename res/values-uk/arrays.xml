@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeks">
+        <item>Пон.</item>
+        <item>Вівт.</item>
+        <item>Сер.</item>
+        <item>Четв.</item>
+        <item>П\'ят.</item>
+        <item>Суб.</item>
+        <item>Нед.</item>
+    </string-array>
+    <string-array name="weeks_short">
+        <item>Пон.</item>
+        <item>Вівт.</item>
+        <item>Сер.</item>
+        <item>Четв.</item>
+        <item>П\'ят.</item>
+        <item>Суб.</item>
+        <item>Нед.</item>
+    </string-array>
+    <string-array name="months">
+        <item>Січень</item>
+        <item>Лютий</item>
+        <item>Березень</item>
+        <item>Квітень</item>
+        <item>Травень</item>
+        <item>Червень</item>
+        <item>Липень</item>
+        <item>Серпень</item>
+        <item>Вересень</item>
+        <item>Жовтень</item>
+        <item>Листопад</item>
+        <item>Грудень</item>
+    </string-array>
+    <string-array name="select_days_simple">
+        <item>Один раз</item>
+        <item>Щоденно</item>
+        <item>З ПН. по ПТ.</item>
+        <item>Налаштування</item>
+    </string-array>
+    <string-array name="fortune">
+        <item>Легко досягти мети сьогодні, але не легко кожний день.</item>
+        <item>Не легко досягати мети щодня</item>
+        <item>Ви ставите рекорди щодня!</item>
+        <item>Насолоджуйтесь самовдосконаленням!</item>
+        <item>Пока ви намагаєтесь - ви ніколи не будете невдахою.</item>
+        <item>Ми те, що ми робимо.</item>
+        <item>Досягнута мета дня.</item>
+        <item>Киньте виклик собі сьогодні, щоб стати краще завтра.</item>
+        <item>Просто зробіть це.</item>
+        <item>Продовжуйте практикуватися.</item>
+    </string-array>
+    <string-array name="weather_aqi_descriptions">
+        <item>відмінне</item>
+        <item>добре</item>
+        <item>помірне</item>
+        <item>помірне</item>
+        <item>погане</item>
+        <item>дуже погане</item>
+    </string-array>
+</resources>
