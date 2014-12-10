@@ -677,8 +677,8 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="sport_running_prepare_map">Подготовка карты…</string>
     <string name="sport_running_start_time">Начало</string>
     <string name="sport_running_step">Шагов</string>
-    <string name="stop">закончить</string>
-    <string name="start">начать</string>
+    <string name="stop" />
+    <string name="start" />
     <string name="bind_devices">Привязать устройства</string>
     <string name="bind_mi_band">Привязать Mi Band</string>
     <string name="bind_mi_band_about"><Data>&lt;a href=http://www.miui.su/miband>Сайт Mi Bind&lt;/a></Data></string>
