@@ -236,6 +236,7 @@ localization_Chinese_table = {
     no_data_hint_2="Кардіо тренування зроблять тебе бадьорим і енергійним на весь день! ",
     no_data_hint_3="Доросла людина проводить у стадії повільного сну 15%-20% від загального сну. ",
     not_binded_hint="Жоден Mi Band не прив\'язаний до цього облікового запису",
+	not_binded_hint_info="Також можна натиснути Weight Scale в меню",
     new_record_info="Ви встановили новий рекорд!",
     new_record_format="Кроків: %d, %s %d",
     today_goal_reached="Вітаю! Сьогодні ви досягли своєї мети.",
@@ -282,6 +283,9 @@ localization_Chinese_table = {
 
     cannot_find_bracelet="Не вдалося знайти Mi Band?",
     cannot_find_bracelet_info="Переконайтеся, що Mi Band знаходиться близько до телефону і заряджений.",
+	
+	bracelet_disconnect = "Не вдалоя підключитися?"
+	
     challenge_to_get="%s дн. з моменту нового рекорду!",
     record_reach_max="Ви побили свій рекорд!",
     new_record_born="Новий рекорд!",
@@ -323,4 +327,9 @@ localization_Chinese_table = {
     weather_tips_title_0 = "Сильне забруднення, краще залишіться вдома.",
     weather_tips_title_1 = "Сильне забруднення, краще залишіться вдома.",
     weather_tips_info = "Присідання або заняття зі скакалкою - відмінні вправи в приміщенні!",
- }
+
+     ---------------Weight scale -------------------
+     welcome_use_weight_scale = "Ласкаво просимо в Weight Scale",
+     welcome_use_weight_scale_not_bind = "Прив\'язати Weight Scale",
+     welcome_use_mi_health="Ласкаво просимо в Mi Health",
+	}

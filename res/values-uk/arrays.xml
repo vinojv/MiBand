@@ -58,4 +58,16 @@
         <item>погане</item>
         <item>дуже погане</item>
     </string-array>
+	 <string-array name="weight_body_figures">
+        <item>Худорлява</item>
+        <item>Нормальна</item>
+        <item>Надлишкова вага</item>
+        <item>Ожиріння</item>
+        <item>Сильне ожиріння</item>
+     </string-array>
+     <string-array name="weight_test_unit">
+        <item>кг</item>
+        <item>цзинь</item>
+        <item>фунт</item>
+     </string-array>
 </resources>

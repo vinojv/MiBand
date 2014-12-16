@@ -10,7 +10,7 @@
       <string name="login">Вхід</string>
       <string name="logining">Виконується вхід…</string>
       <string name="welcome">Привіт</string>
-      <string name="login_failed">Авторизація не вдалася, спробуйте ще раз.</string>
+      <string name="login_failed">Не вдалося виконати вхід</string>
       <string name="failed_enable_bt">Увімкніть Bluetooth</string>
       <string name="search_bracelet">Пошук…</string>
       <string name="connect_bracelet_now">Підключення…</string>
@@ -30,19 +30,19 @@
       <string name="date_last_month">Минулий місяць</string>
       <string name="date_from_to">%1$s на %2$s</string>
       <string name="date_from_to_short">%1$s%2$s</string>
-      <string name="date_month_day">MMM d</string>
-      <string name="date_year_month_day">MMM d, yyyy</string>
+      <string name="date_month_day">d MMMM</string>
+      <string name="date_year_month_day">d MMMM, yyyy</string>
       <string name="date_month_day_short">%1$d.%2$d</string>
       <string name="date_month_day_week">%1$s %2$s</string>
       <string name="date_month_day_week_short">%1$d.%2$d %3$s</string>
-      <string name="date_month">MMMM</string>
+      <string name="date_month">MMM</string>
       <string name="date_year_month">MMM, yyyy</string>
       <string name="network_error">Не вдалося підключитися до інтернету</string>
       <string name="prev_step">Назад</string>
       <string name="next_step">Далі</string>
       <string name="cancel">Скасувати</string>
       <string name="accept">OK</string>
-      <string name="set_sport_goal">Встановити мету</string>
+      <string name="set_sport_goal">Задати мету</string>
       <string name="alarm_once">Один раз</string>
       <string name="goals_push_none">Без push повідомлень</string>
       <string name="goals_push_five">Досягнуто 50%</string>
@@ -58,13 +58,13 @@
       <string name="alarm">Будильник</string>
       <string name="unlock_screen">Розблокування екрану</string>
       <string name="about">Про програму</string>
-      <string name="unit_kilometer">" км "</string>
-      <string name="unit_meter">" м "</string>
-      <string name="unit_calorie">" ккал "</string>
-      <string name="unit_step">" кроків "</string>
-      <string name="unit_hour">" год. "</string>
-      <string name="unit_min">" хв. "</string>
-      <string name="unit_min_short">" х. "</string>
+      <string name="unit_kilometer">" км."</string>
+      <string name="unit_meter">" м."</string>
+      <string name="unit_calorie">" ккал."</string>
+      <string name="unit_step">" кроків"</string>
+      <string name="unit_hour">" год."</string>
+      <string name="unit_min">" хв."</string>
+      <string name="unit_min_short">" х."</string>
       <string name="upgrade_tip">Повідомлення про оновлення</string>
       <string name="hot_des">Енергія</string>
       <string name="noti_bracelet_low_battery_title">Низький заряд батареї</string>
@@ -72,9 +72,9 @@
       <string name="noti_bracelet_low_battery_title_none">Mi Band вимкнено</string>
       <string name="noti_bracelet_low_battery_content_none">Підключіть зарядний пристрій</string>
       <string name="bt_operation_failed_tips">Bluetooth працює некоректно, повторіть пізніше.</string>
-      <string name="multi_devices_info">Спробуйте перенести ваш Mi Band і телефон мінімум на 10 метрів від інших Mi Band і повторити пошук.</string>
+      <string name="multi_devices_info">Спробуйте перенести ваш Mi Band і телефон мінімум на 10 метрів від інших Mi Band, потім повторіть пошук.</string>
       <string name="multi_devices_title">Не вдалося зв\'язати</string>
-      <string name="search_bracelet_again">Повторний пошук</string>
+      <string name="search_bracelet_again">Повторити пошук</string>
       <string name="search_devices_info">Надіньте Mi Band і знаходьтесь поруч з телефоном</string>
       <string name="search_bracelet_ok">Mi Band знайдено!</string>
       <string name="found_bracelet_info">Коли на Band будуть блимати лампочки, натисніть кілька разів на металевий сенсор для прив\'язки.</string>
@@ -91,7 +91,7 @@ Mi Band підтримує тільки Android 4.4 і новіше."</string>
       <string name="system_low_info">Оновити систему до Android 4.4 або новіше для підтримки Mi Band.</string>
       <string name="bind_bracelet">Mi Band знайдено</string>
       <string name="bracelet_login_title">Привіт, я Mi Band :)</string>
-      <string name="bracelet_login_info">Використовуйте свій Mi акаунт для відстеження вашого здоров\'я і успіхів у фітнесі.</string>
+      <string name="bracelet_login_info">Використовуйте свій Mi акаунт для відстеження вашого здоров\'я і успіхів у фітнесі</string>
       <string name="male">Чоловічий</string>
       <string name="female">Жіночий</string>
       <string name="cm">см</string>
@@ -104,14 +104,14 @@ Mi Band підтримує тільки Android 4.4 і новіше."</string>
       <string name="new_friend_accept">Прийняти</string>
       <string name="search_devices_title">Пошук Mi Band</string>
       <string name="share_blog_cancel">Скасувати</string>
-      <string name="share_blog_title">Опублікувати оновлення</string>
-      <string name="share_blog_share">Опублікувати</string>
+      <string name="share_blog_title">Поділитися оновленням</string>
+      <string name="share_blog_share">Поділитися</string>
       <string name="share_blog_message_hint">Напишіть що-небудь…</string>
       <string name="share_blog_other">Поділитися</string>
       <string name="distance">Відстань</string>
       <string name="points_exchange">Обміняти окуляри</string>
       <string name="odo">Загальна відстань</string>
-      <string name="daily_sporty">Кроків за день</string>
+      <string name="daily_sporty">Кроків у середньому</string>
       <string name="unknown_location">Невідоме місцезнаходження:</string>
       <string name="km">км</string>
       <string name="cal">ккал</string>
@@ -136,15 +136,14 @@ Mi Band підтримує тільки Android 4.4 і новіше."</string>
       <string name="mili_name_too_long">Назва занадто довга</string>
       <string name="mili_rename_fail">Не вдалося оновити назву Mi Band</string>
       <string name="mili_unbind_question">Після того, як ви відв\'яжите Mi Band ваш телефон не зможе отримувати від нього дані.</string>
-      <string name="share_to_content">Поділитися своїм життям з Mi Band</string>
-      <string name="share_goal_tips_succ">"Є чудовий план?
-Зробіть свій перший крок".</string>
+      <string name="share_to_content">Поділитися прогресом</string>
+      <string name="share_goal_tips_succ">Я сьогодні досяг свою мету!</string>
       <string name="share_goal_tips_fail">Ви близько до наміченої мети.</string>
       <string name="person_info_goal_info">"Виходячи з введених даних, ми пропонуємо вам тренуватися не менше 40 хвилин на день. 
 Це приблизно 8000 кроків."</string>
       <string name="person_info_goal_info_young">"Виходячи з введених даних, ми пропонуємо вам тренуватися не менше 60 хвилин на день. 
 Це приблизно 12000 кроків."</string>
-      <string name="set_person_goal">Встановити мету</string>
+      <string name="set_person_goal">Задати мету</string>
       <string name="feedback">Звіт</string>
       <string name="smart_wake_up">Розумний будильник</string>
       <string name="smart_wake_up_info">"Розбудити під час фази швидкого сну, але не
@@ -289,7 +288,7 @@ Mi Band підтримує тільки Android 4.4 і новіше."</string>
       <string name="dynamic_detail_modify_sleep_end_time">Змінити час пробудження</string>
       <string name="time_format_hour_min">%1$s г. %2$s хв.</string>
       <string name="time_format_min">%s хв.</string>
-      <string name="action_pop_my_bracelet">Налаштування Mi Band</string>
+      <string name="action_pop_my_bracelet">Налаштування</string>
       <string name="action_pop_smart_alarms">Будильник</string>
       <string name="action_pop_person_info">Мій профіль</string>
       <string name="action_pop_unlock_screen">Розблокування екрану</string>
@@ -317,7 +316,7 @@ Mi Band підтримує тільки Android 4.4 і новіше."</string>
       <string name="please_input_age">Вік</string>
       <string name="your_height">Зростання</string>
       <string name="your_weight">Вага</string>
-      <string name="please_set_sport_goal">Встановіть цілі</string>
+      <string name="please_set_sport_goal">Задайте мету</string>
       <string name="your_gender">Пол</string>
       <string name="donot_bind">Пізніше</string>
       <string name="welcom_back">З поверненням</string>
@@ -333,30 +332,30 @@ Mi Band підтримує тільки Android 4.4 і новіше."</string>
       <string name="look_device_list">Пошук Mi Band поруч</string>
       <string name="device_list">Найближчі Mi Bands</string>
       <string name="unbinding">Відв\'язуємо…</string>
-      <string name="share_sleep_title">Минула ніч</string>
-      <string name="share_sleep_title_average">Сон в середньому</string>
-      <string name="share_sleep_title_daily">Сон</string>
+      <string name="share_sleep_title">минула ніч</string>
+      <string name="share_sleep_title_average">" сон у середньому"</string>
+      <string name="share_sleep_title_daily">сон</string>
       <string name="share_step_goal_succ_title_today">Сьогодні мета досягнута!</string>
-      <string name="share_step_goal_succ_title">Досягти мети</string>
+      <string name="share_step_goal_succ_title">Мета досягнута</string>
       <string name="share_step_goal_failed_title_today">Сьогодні</string>
       <string name="share_step_goal_failed_title"></string>
       <string name="share_step_description">"Пройдено %1$s спалено %2$s ккал.
 "</string>
-      <string name="share_step_description_run">"Ходьба %1$s, біг %2$s.
+      <string name="share_step_description_run">"Ходьба %1$s, біг %2$s
 Спалено %3$s ккал.
 "</string>
       <string name="share_step_description_weekly">"%1$s%2$s
 Спалено %3$s ккал. Попередній рекорд %5$s кроків (%4$s)."</string>
       <string name="share_step_description_weekly_run">%1$s, біг %2$s %3$s. Попередній рекорд %5$s кроків (%4$s).</string>
-      <string name="share_play_ground_format">" або близько %1$s кіл навколо дистанції"</string>
+      <string name="share_play_ground_format">або близько %1$s кіл</string>
       <string name="share_step_description_monthly">"%1$s %2$s.
 спалено %3$s ккал, збережено %4$s галонів бензину. Попередній рекорд %6$s кроків (%5$s)."</string>
       <string name="share_step_description_monthly_run">"%1$s, біг %2$s
 %3$s, збережено %4$s галонів бензину. Попередній рекорд %6$s кроків (%5$s)."</string>
-      <string name="marathon_format_0">" близько %1$s марафонів"</string>
-      <string name="marathon_format_1">" більше %1$s марафонів"</string>
-      <string name="half_marathon_format_0">" близько %1$s пів-марафонів"</string>
-      <string name="half_marathon_format_1">" більш ніж пів-марафону"</string>
+      <string name="marathon_format_0">близько %1$s марафонів</string>
+      <string name="marathon_format_1">більше %1$s марафонів</string>
+      <string name="half_marathon_format_0">близько %1$s пів-марафонів</string>
+      <string name="half_marathon_format_1">більш ніж пів-марафону</string>
       <string name="share_continue_goal_format">"Всього пройдено %1$s %2$s кроків день.
 %3$s
 %4$s"</string>
@@ -364,12 +363,12 @@ Mi Band підтримує тільки Android 4.4 і новіше."</string>
 %4$s"</string>
       <string name="share_sleep_description">"Повільний сон: %1$s ч. %2$s м. | Швидкий сон %3$s ч. %4$s м.
 Заснув: %5$s | Пробудження: %6$s"</string>
-      <string name="share_sleep_description_average">"Провів у середньому
-Повільний сон: %1$sч. %2$sм. | Швидкий сон: %3$sч. %4$sм.
+      <string name="share_sleep_description_average">"Сон у середньому
+Повільний: %1$sч. %2$sм. | Швидкий: %3$sч. %4$sм.
 Заснув: %5$s | Пробудження: %6$s"</string>
       <string name="smart_alarm_notify">Розумний будильник</string>
       <string name="battery_charge_full">Батарея заряджена</string>
-      <string name="battery_low_info">Низький заряд батареї.</string>
+      <string name="battery_low_info">Низький заряд батареї</string>
       <string name="battery_charging">Зарядка…</string>
       <string name="finding_bracelet">Пошук Mi Band…</string>
       <string name="unlock_screen_set_password_tips_set">Встановіть пароль розблокування екрану</string>
@@ -494,7 +493,7 @@ Mi Band підтримує тільки Android 4.4 і новіше."</string>
       <string name="fw_low_battery_title">Перед оновленням зарядіть пристрій</string>
       <string name="fw_low_battery_tips">Для оновлення рівень заряду Mi Band повинен бути не менше 10%</string>
       <string name="fw_low_battery_view_help">Допомога</string>
-      <string name="main_ui_share_tips">"Сьогодні тренувався %1$s%2$s.
+      <string name="main_ui_share_tips">"Сьогоднішнє тренування: %1$s%2$s
 %3$s"</string>
       <string name="ran">"пробіг "</string>
       <string name="main_ui_sleep_share_tips">"Швидкий сон %1$s%2$s
@@ -609,7 +608,7 @@ Mi Band підтримує тільки Android 4.4 і новіше."</string>
       <string name="notify_status_motor_test">тест.</string>
       <string name="restart_bluetooth_tips">Перезавантажити Bluetooth</string>
       <string name="set_alarm_time">Встановити будильник</string>
-      <string name="share_step_ranking">Ви обійшли користувачів: &lt;b>%s&lt;/b>.</string>
+      <string name="share_step_ranking">Ви обійшли &lt;b>%s&lt;/b> користувачів</string>
       <string name="signal_strength">Потужність сигналу: </string>
       <string name="sport_new_record_ropeskipping">Новий рекорд</string>
       <string name="sport_ranking_desc_great">Ви непереможні!</string>
@@ -618,10 +617,10 @@ Mi Band підтримує тільки Android 4.4 і новіше."</string>
       <string name="sport_running_distance_detail">%s км.</string>
       <string name="sport_running_gps_cancel">Скасувати</string>
       <string name="sport_running_gps_turnon">Включити</string>
-      <string name="sport_running_helper">Помічник</string>
+      <string name="sport_running_helper">Помічник у бі</string>
       <string name="sport_running_helper_test">Тест помічника</string>
       <string name="sport_running_history">Історія</string>
-      <string name="sport_running_no_gps">GPS повинен бути включений для запису маршруту. Включити?</string>
+      <string name="sport_running_no_gps">GPS повинен бути включений для запису маршруту</string>
       <string name="sport_running_pace">Темп</string>
       <string name="sport_running_pace_detail">%s/км</string>
       <string name="sport_running_set_dist">Нагадування відстані</string>
@@ -656,7 +655,7 @@ Mi Band підтримує тільки Android 4.4 і новіше."</string>
       <string name="state_unbinded">Не авторизовані</string>
       <string name="user_agreement_prefix">Для використання продукту ви повинні прийняти:\n " </string>
       <string name="vibrate_notify">Вібрація для повідомлень</string>
-      <string name="vibrate_notify_tips">Вібрувати, при отриманні повідомлення.</string>
+      <string name="vibrate_notify_tips">Вібрувати при отриманні сповіщення</string>
       <string name="wrong_system_time">Системне час пристрою некоректно</string>
       <string name="birthday">День народження</string>
       <string name="bracelet_store_desc">Магазин</string>
@@ -707,4 +706,41 @@ Mi Band підтримує тільки Android 4.4 і новіше."</string>
       <string name="state_deauthorization_success">Успішний вхід!</string>
       <string name="unit_sec_short">с</string>
       <string name="user_agreement_ux">Приєднатися до програми покращення якості UX</string>
+	  <string name="bind_weight_scale">Прив\'язати Weight Scale</string>
+      <string name="btn_confirm">Так</string>
+      <string name="btn_continue">Ні</string>
+      <string name="btn_delete">Видалити</string>
+      <string name="btn_save">Зберегти</string>
+    <string name="connected_broadcast">Мовлення при підключенні</string>
+    <string name="connected_broadcast_tips">Використовується для тестового контролю</string>
+    <string name="debug_host_label">Адреса тестового комп\'ютера:</string>
+    <string name="host_can_not_be_empty">Адреса не може бути пустою</string>
+    <string name="host_change_error">Не вдалося змінити адресу</string>
+    <string name="host_change_success">Адреса змінена</string>
+    <string name="running_no_track_desc">Ви не рухалися. Скасувати?</string>
+    <string name="running_set_pace_desc">Mi band буде вібрувати, якщо ваша швидкість буде меньшою ніж встановлена.</string>
+    <string name="running_short_track_desc">Ви просунулися на %d м. Скасувати?</string>
+    <string name="search_weight_scale">Пошук Weight Scale</string>
+    <string name="search_weight_scale_info">Залишайтеся поруч з Weight Scale</string>
+    <string name="set_unit">Одиниці виміру</string>
+    <string name="sport_running_distance_unit">Відстань (км)</string>
+    <string name="sport_running_gps_locating">Визначення місцерозташування по GPS…</string>
+    <string name="sport_running_lable_km_slowest">км повільно</string>
+    <string name="sport_running_lable_miles_fastest">км швидко</string>
+    <string name="sport_running_pace_lable">Темп</string>
+    <string name="sport_running_set_pace">Задати темп</string>
+    <string name="state_authorization_doing">Авторизація…</string>
+    <string name="state_deauthorization_doing">Вихід…</string>
+    <string name="title_activity_open">Прив\'язати партнерську сторінку</string>
+    <string name="unlock_for_smartlock_pair_fail_tip">Не вдалося встановити зв\'язок, cпробуйте знову</string>
+    <string name="unlock_for_smartlock_pair_start_tip">Встановлення зв\'язку…</string>
+    <string name="unlock_for_smartlock_pair_success_tip">Зв\'язок встановлений, налаштуйте Розумне блокування</string>
+    <string name="unlock_for_smartlock_tip">Для роботи функції, застосунок повинен бути активний у фоні</string>
+    <string name="unlock_for_smartlock_tip_step1">1.Увійдіть у <b>Налаштування</b> - <b>Екран блокування</b></string>
+    <string name="unlock_for_smartlock_tip_step2">2. Встановіть <b>спосіб блокування</b> (графічний, код або пароль)</string>
+    <string name="unlock_for_smartlock_tip_step3">3. Натисніть <b>Розумне блокування</b> і налаштуйте функцію блокування.</string>
+    <string name="weight_device_list">Значения Weight Scale</string>
+    <string name="weight_scale">Weight Scale</string>
+    <string name="weight_test_dynamic_detail">Вага: %1$s%2$s</string>
+    <string name="weight_unbinded">Відв\'язати Weight Scale</string>
 </resources>
