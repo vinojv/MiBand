@@ -198,9 +198,9 @@ Mi Band поддерживает только Android 4.4 и старше."</str
     <string name="stat_sleep_average">Сон\nв среднем</string>
     <string name="stat_sleep_deep_average">Медленный сон\nв среднем</string>
     <string name="stat_sleep_shallow_average">Быстрый сон\nв среднем</string>
-    <string name="stat_sleep_time_average">Заснул в</string>
-    <string name="stat_sleep_rise_time_average">Пробуждение в</string>
-    <string name="stat_sleep_wake_average">Пробуждение/День</string>
+    <string name="stat_sleep_time_average">Засыпание</string>
+    <string name="stat_sleep_rise_time_average">Пробуждение</string>
+    <string name="stat_sleep_wake_average">Встал за</string>
     <string name="bmenu_dynamic">Обновления</string>
     <string name="bmenu_device">Устройства</string>
     <string name="bmenu_my">Я</string>
