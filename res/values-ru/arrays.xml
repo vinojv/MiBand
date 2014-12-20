@@ -10,13 +10,13 @@
         <item>Вос.</item>
     </string-array>
     <string-array name="weeks_short">
-        <item>Пон.</item>
-        <item>Втор.</item>
-        <item>Сред.</item>
-        <item>Четв.</item>
-        <item>Пят.</item>
-        <item>Суб.</item>
-        <item>Вос.</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Вс</item>
     </string-array>
     <string-array name="months">
         <item>Январь</item>
@@ -33,22 +33,22 @@
         <item>Декабрь</item>
     </string-array>
     <string-array name="select_days_simple">
-        <item>Один раз</item>
+        <item>Однократно</item>
         <item>Ежедневно</item>
-        <item>С ПН. по ПТ.</item>
-        <item>Настройка</item>
+        <item>По будням</item>
+        <item>Выбрать дни</item>
     </string-array>
     <string-array name="fortune">
         <item>Легко достичь цель сегодня, но не легко каждый день.</item>
-        <item>Не легко достигать цель каждый день.</item>
+        <item>Не легко достигать цель каждый день</item>
         <item>Вы ставите рекорды каждый день!</item>
         <item>Наслаждайтесь самосовершенствованием!</item>
         <item>Пока вы пытаетесь - вы никогда не будете неудачником.</item>
-        <item>Мы то, что мы делаем.</item>
-        <item>Достигнута цель дня.</item>
+        <item>Мы то, что мы делаем</item>
+        <item>Достигнута цель дня</item>
         <item>Бросьте вызов себе сегодня, чтобы стать лучше завтра.</item>
-        <item>Просто сделайте это.</item>
-        <item>Продолжайте практиковаться.</item>
+        <item>Просто сделайте это</item>
+        <item>Продолжайте практиковаться</item>
     </string-array>
     <string-array name="weather_aqi_descriptions">
         <item>отличное</item>
