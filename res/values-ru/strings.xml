@@ -275,14 +275,14 @@ Mi Band поддерживает только Android 4.4 и выше."</string>
     <string name="dynamic_sleep_deep">Медленный</string>
     <string name="dynamic_sleep_shallow">Быстрый</string>
     <string name="dynamic_sleep_active">Пробуждение</string>
-    <string name="dynamic_sleep_active_start">Готов ко сну</string>
+    <string name="dynamic_sleep_active_start">Подготовка ко сну</string>
     <string name="dynamic_sleep_active_end">Подъем</string>
     <string name="dynamic_tip_unweared">Mi Band не на руке</string>
     <string name="dynamic_tip_sleep_unsynced">Не обновлено</string>
     <string name="dynamic_tip_step_unsynced">Не обновлено</string>
     <string name="dynamic_tip_step_sync_time_hour">%d ч. назад</string>
     <string name="dynamic_tip_step_sync_time_min">%d мин. назад</string>
-    <string name="dynamic_tip_sync_progress">Синхронизация %d%%</string>
+    <string name="dynamic_tip_sync_progress">Синхронизация: %d%%</string>
     <string name="dynamic_tip_sync_time">Синхронизировано: %s</string>
     <string name="dynamic_detail_modify_sleep_start_time">Изменить время начала сна</string>
     <string name="dynamic_detail_modify_sleep_end_time">Изменить время пробуждения</string>
@@ -331,7 +331,7 @@ Mi Band поддерживает только Android 4.4 и выше."</string>
     <string name="help_title_3">Mi Band связан с другим телефоном?</string>
     <string name="look_device_list">Поиск Mi Band рядом</string>
     <string name="device_list">Ближайшие Mi Bands</string>
-    <string name="unbinding">Отвязываем…</string>
+    <string name="unbinding">Отвязывание…</string>
     <string name="share_sleep_title">прошлая ночь</string>
     <string name="share_sleep_title_average">" сон в среднем"</string>
     <string name="share_sleep_title_daily">сон</string>
@@ -496,8 +496,8 @@ Mi Band поддерживает только Android 4.4 и выше."</string>
     <string name="main_ui_share_tips">"Сегодняшняя тренировка: %1$s%2$s
 %3$s"</string>
     <string name="ran">"бег "</string>
-    <string name="main_ui_sleep_share_tips">"Быстрый сон %1$s%2$s
-Начало сна %3$s | Пробуждение %4$s"</string>
+    <string name="main_ui_sleep_share_tips">"Быстрый сон: %1$s%2$s
+Начало сна: %3$s | Пробуждение: %4$s"</string>
     <string name="awake_format">, пробуждений: %1$s.</string>
     <string name="awake_format_1">, пробуждений: 1.</string>
     <string name="discard">ОК</string>
@@ -565,7 +565,7 @@ Mi Band поддерживает только Android 4.4 и выше."</string>
     <string name="lab_factory_sport_share_info_current_accumulation">Накоплено</string>
     <string name="lab_factory_sport_share_info_group_record">Групповой рекорд</string>
     <string name="lab_factory_sport_share_info_history_best_record">"Общий рекорд: "</string>
-    <string name="lab_factory_sport_share_info_new_record">новый рекорд</string>
+    <string name="lab_factory_sport_share_info_new_record">Новый рекорд</string>
     <string name="lab_factory_sport_steps_converted">около %d шагов</string>
     <string name="lab_factory_sport_timeout">Не обнаружено</string>
     <string name="lab_factory_sport_type_badminton">Бадминтон</string>
@@ -610,7 +610,7 @@ Mi Band поддерживает только Android 4.4 и выше."</string>
     <string name="set_alarm_time">Установить будильник</string>
     <string name="share_step_ranking">Вы обошли &lt;b>%s&lt;/b> пользователей</string>
     <string name="signal_strength">Мощность сигнала: </string>
-    <string name="sport_new_record_ropeskipping">Новый рекорд</string>
+    <string name="sport_new_record_ropeskipping">новый рекорд</string>
     <string name="sport_ranking_desc_great">Вы непобедимы!</string>
     <string name="sport_ranking_desc_normal" formatted="false">Вы обошли пользователей: &lt;b>%s%&lt;/b> из %s.</string>
     <string name="sport_ranking_desc_poor">Каждый %s пользователь вас обошел!</string>
@@ -633,7 +633,7 @@ Mi Band поддерживает только Android 4.4 и выше."</string>
     <string name="sport_running_start">Старт</string>
     <string name="sport_running_time_desc">Время</string>
     <string name="sport_share">Поделиться</string>
-    <string name="stat_step_calorie_piece">Ккал</string>
+    <string name="stat_step_calorie_piece">ккал</string>
     <string name="stat_step_distance_piece">Расстояние</string>
     <string name="stat_step_piece">Шагов</string>
     <string name="stat_step_run_calorie">Бег\n(сожжено)</string>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="weeks">
-        <item>Пон.</item>
-        <item>Втор.</item>
-        <item>Сред.</item>
-        <item>Четв.</item>
-        <item>Пят.</item>
-        <item>Суб.</item>
-        <item>Вос.</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Вс</item>
     </string-array>
     <string-array name="weeks_short">
         <item>Пн</item>
