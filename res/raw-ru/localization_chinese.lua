@@ -222,9 +222,9 @@ localization_Chinese_table = {
 
     welcome_use="Добро пожаловать",
     last_week_walked_format='Шагов за прошлую неделю: %d',
-    last_week_walked_info_format='Пройдено %d км | Сожжено %d ккал.',
+    last_week_walked_info_format='Пройдено %d км | Сожжено %d ккал',
     last_month_walked_format='Шагов за прошлый месяц: %d',
-    last_month_walked_info_format='Пройдено %d км | Сожжено %d ккал.',
+    last_month_walked_info_format='Пройдено %d км | Сожжено %d ккал',
 
     get_over_format=", около %d г жира.",
     click_to_get_help="Информация о Mi Band",
@@ -264,7 +264,7 @@ localization_Chinese_table = {
     active_time_format_2="%d ч. %d мин.",
     activie_run_format_0="Бег %s. Хорошая работа!",
     activie_run_format_1="Бег %s. Фантастика!",
-    activie_run_format_2="Бег %s, Невероятная выносливость!",
+    activie_run_format_2="Бег %s. Невероятная выносливость!",
     activie_run_consumed="Сожжено %d ккал. %s",
 	
     get_distance_format="%d м",
