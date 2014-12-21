@@ -341,25 +341,28 @@ Mi Band поддерживает только Android 4.4 и выше."</string>
     <string name="share_step_goal_failed_title">Всего</string>
     <string name="share_step_description">"Пройдено %1$s | Сожжено %2$s ккал
 "</string>
-    <string name="share_step_description_run">"Ходьба: %1$s | Бег: %2$s
-Сожжено %3$s ккал.
-"</string>
-    <string name="share_step_description_weekly">"%1$s%2$s
-Сожжено %3$s ккал. Предыдущий рекорд: %5$s шагов (%4$s)."</string>
-    <string name="share_step_description_weekly_run">%1$s, бег %2$s, %3$s. Предыдущий рекорд %5$s шагов (%4$s).</string>
-    <string name="share_play_ground_format">или около %1$s кругов</string>
-    <string name="share_step_description_monthly">"%1$s, %2$s.
- сожжено %3$s ккал, сохранено %4$s галлонов бензина. Предыдущий рекорд %6$s шагов (%5$s)."</string>
-    <string name="share_step_description_monthly_run">"%1$s, бег %2$s
- %3$s, сохранено %4$s галлонов бензина. Предыдущий рекорд %6$s шагов (%5$s)."</string>
+    <string name="share_step_description_run">"Пройдено %1$s | Бег: %2$s
+Сожжено %3$s ккал"</string>
+    <string name="share_step_description_weekly">"Пройдено %1$s (%2$s)
+Сожжено %3$s ккал 
+Предыдущий рекорд: %5$s шагов (%4$s)"</string>
+    <string name="share_step_description_weekly_run">"Пройдено %1$s | Бег: %2$s (%3$s)
+Предыдущий рекорд: %5$s шагов (%4$s)"</string>
+    <string name="share_play_ground_format">около %1$s кругов</string>
+    <string name="share_step_description_monthly">"Пройдено %1$s (%2$s)
+Cожжено %3$s ккал | Сохранено %4$s галлонов бензина
+Предыдущий рекорд: %6$s шагов (%5$s)"</string>
+    <string name="share_step_description_monthly_run">"Пройдено %1$s | Бег: %2$s (%3$s)
+Сохранено %4$s галлонов бензина
+Предыдущий рекорд: %6$s шагов (%5$s)"</string>
     <string name="marathon_format_0">около %1$s марафонов</string>
     <string name="marathon_format_1">более %1$s марафонов</string>
     <string name="half_marathon_format_0">около %1$s полу-марафонов</string>
     <string name="half_marathon_format_1">более полу-марафона</string>
-    <string name="share_continue_goal_format">"Всего пройдено %1$s, %2$s шагов в день.
+    <string name="share_continue_goal_format">"Пройдено %1$s | Шагов в день: %2$s
 %3$s
 %4$s"</string>
-    <string name="share_continue_goal_format_run">"Всего пройдено: %1$s | Бег: %2$s, %3$s.
+    <string name="share_continue_goal_format_run">"Пройдено %1$s | Бег: %2$s (%3$s)
 %4$s"</string>
     <string name="share_sleep_description">"Медленный сон: %1$s ч. %2$s м. | Быстрый сон: %3$s ч. %4$s м.
 Начало сна: %5$s | Пробуждение: %6$s"</string>
