@@ -2,6 +2,7 @@
 -- Russian Localization String resources
 -- MIUI Russia miui.su (2014)
 -- Zenk
+-- DriffeX
 -- 20140731
 -------------------------
 localization_Chinese_table = {
