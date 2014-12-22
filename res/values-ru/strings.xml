@@ -297,11 +297,11 @@ Mi Band поддерживает только Android 4.4 и выше."</string>
     <string name="start_weixin_not_installed">Запустить WeChat (не установлено)</string>
     <string name="action_pop_about">О приложении</string>
     <string name="find_bracelet">Поиск Mi Band</string>
-    <string name="light_color">Индикация</string>
-    <string name="light_color_title">Цветовые индикаторы показывают прогресс вашей тренировки</string>
-    <string name="wear_hand">Рука</string>
-    <string name="left_hand">Левая</string>
-    <string name="right_hand">Правая</string>
+    <string name="light_color">Цвет индикатора</string>
+    <string name="light_color_title">Цвет индикатора для отображения прогресса</string>
+    <string name="wear_hand">Место крепления</string>
+    <string name="left_hand">Левая рука</string>
+    <string name="right_hand">Правая рука</string>
     <string name="unbind">Отвязать</string>
     <string name="unbind_short">Отвязать</string>
     <string name="firmware_version">Версия прошивки</string>
