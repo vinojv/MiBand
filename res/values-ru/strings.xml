@@ -442,7 +442,7 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="dynamic_pull_connect_failed_hint">Убедитесь, что Mi Band достаточно заряжен.</string>
     <string name="dynamic_pull_not_sync_today">Сегодня не синхронизировалось</string>
     <string name="dynamic_pull_last_sync_time">Последняя синхронизация %s</string>
-    <string name="dynamic_pull_connecting_bracelet">Подключение Mi Band…</string>
+    <string name="dynamic_pull_connecting_bracelet">Подключение к Mi Band…</string>
     <string name="dynamic_pull_sync_after_connected">Получение данных от браслета</string>
     <string name="dynamic_pull_syncing">Синхронизация…</string>
     <string name="dynamic_pull_syncing_progress">Синхронизировано: %s%%</string>
@@ -460,7 +460,7 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="disable_debug_log">Режим отладки отключен!</string>
     <string name="fw_upgrade">Обновление прошивки</string>
     <string name="fw_upgrade_tips">Mi Band должен быть рядом с телефоном во время прошивки</string>
-    <string name="fw_upgrade_progress">Обновление %s%%</string>
+    <string name="fw_upgrade_progress">Обновление: %s%%</string>
     <string name="runed">Бег</string>
     <string name="share_to_miliao_path">Поделится</string>
     <string name="share_to_miliao_target_feeds">Круг</string>
@@ -747,4 +747,6 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="weight_scale">Weight Scale</string>
     <string name="weight_test_dynamic_detail">Вес: %1$s%2$s</string>
     <string name="weight_unbinded">Отвязать Weight Scale</string>
+	<string name="donot_have_band">Нет Mi Band?</string>
+	<string name="running_gps_poor_signal">Слабый сигнал GPS. Рекомендуется находиться в открытом пространстве.</string>
 </resources>
