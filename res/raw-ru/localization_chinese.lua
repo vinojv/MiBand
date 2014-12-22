@@ -1,8 +1,7 @@
 -------------------------
 -- Russian Localization String resources
 -- MIUI Russia miui.su (2014)
--- Zenk
--- DriffeX
+-- Zenk & DriffeX
 -- 20140731
 -------------------------
 localization_Chinese_table = {
@@ -216,7 +215,7 @@ localization_Chinese_table = {
     month='мес.',
     day='дн.',
     step="ш.",
-    km='км',
+    km=' км',
     minute_format='%d мин.',
     hour_minute_format='%d ч. %d мин.',
     hour_format='%d ч.',
@@ -241,7 +240,7 @@ localization_Chinese_table = {
     not_binded_hint_info="Так же можно нажать Weight Scale в меню",
     new_record_info="Вы установили новый рекорд!",
     new_record_format="Шагов: %d | %s %d",
-    today_goal_reached="Поздравляю! Сегодня вы достигли свою цель.",
+    today_goal_reached="Поздравляем! Сегодня вы достигли свою цель.",
     week_continue_reach_goal="Вы достигали цель на протяжении недели! Отличная неделя!",
 	
     challenge_format="Вы достигаете цель %d дн. подряд!",	

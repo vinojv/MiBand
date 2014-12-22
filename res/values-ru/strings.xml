@@ -29,7 +29,7 @@
     <string name="date_this_month">Текущий месяц</string>
     <string name="date_last_month">Прошлый месяц</string>
     <string name="date_from_to">С %1$s по %2$s</string>
-    <string name="date_from_to_short">%1$s - %2$s</string>
+    <string name="date_from_to_short">%1$s-%2$s</string>
     <string name="date_month_day">d MMMM</string>
     <string name="date_year_month_day">d MMMM yyyy</string>
     <string name="date_month_day_short">%2$d.%1$d</string>
@@ -114,7 +114,7 @@ Mi Band поддерживает только Android 4.4 и выше."</string>
     <string name="daily_sporty">Шагов в среднем</string>
     <string name="unknown_location">Неизвестное местоположение</string>
     <string name="km">км</string>
-    <string name="cal">ккал</string>
+    <string name="cal">Ккал</string>
     <string name="step">шагов</string>
     <string name="point">очков</string>
     <string name="unknown_mili">Мой</string>
@@ -277,7 +277,7 @@ Mi Band поддерживает только Android 4.4 и выше."</string>
     <string name="dynamic_sleep_active">Пробуждение</string>
     <string name="dynamic_sleep_active_start">Подготовка ко сну</string>
     <string name="dynamic_sleep_active_end">Подъем</string>
-    <string name="dynamic_tip_unweared">Mi Band не на руке</string>
+    <string name="dynamic_tip_unweared">Сон не отслежен</string>
     <string name="dynamic_tip_sleep_unsynced">Не обновлено</string>
     <string name="dynamic_tip_step_unsynced">Не обновлено</string>
     <string name="dynamic_tip_step_sync_time_hour">%d ч. назад</string>
@@ -436,7 +436,7 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="setting_feedback_address">Контактная информация</string>
     <string name="setting_about_fw">"Версия прошивки: "</string>
     <string name="setting_about_app">"Версия приложения: "</string>
-    <string name="no_wear_bracelet">Вы не надевали Mi Band прошлой ночью</string>
+    <string name="no_wear_bracelet">Сон еще не отслеживался</string>
     <string name="no_wear_user_modified">Добавить данные сна вручную</string>
     <string name="dynamic_pull_connect_failed">Не удалось подключиться</string>
     <string name="dynamic_pull_connect_failed_hint">Убедитесь, что Mi Band достаточно заряжен.</string>
@@ -445,7 +445,7 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="dynamic_pull_connecting_bracelet">Подключение Mi Band…</string>
     <string name="dynamic_pull_sync_after_connected">Получение данных от браслета</string>
     <string name="dynamic_pull_syncing">Синхронизация…</string>
-    <string name="dynamic_pull_syncing_progress">Синхронизировано %s%%</string>
+    <string name="dynamic_pull_syncing_progress">Синхронизировано: %s%%</string>
     <string name="dynamic_pull_release_to_sync">Отпустите для синхронизации</string>
     <string name="dynamic_pull_pull_to_sync">Потяните для синхронизации</string>
     <string name="dynamic_pull_update_report">Обновлено записей: %s</string>
