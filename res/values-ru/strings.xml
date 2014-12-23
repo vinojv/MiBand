@@ -36,7 +36,7 @@
     <string name="date_month_day_week">%2$s %1$s</string>
     <string name="date_month_day_week_short">%1$d.%2$d %3$s</string>
     <string name="date_month">MMM</string>
-    <string name="date_year_month">MMM yyyy</string>
+    <string name="date_year_month">MM.yyyy</string>
     <string name="network_error">Не удалось подключиться к интернету</string>
     <string name="prev_step">Назад</string>
     <string name="next_step">Далее</string>
@@ -94,12 +94,12 @@ Mi Band поддерживает только Android 4.4 и выше."</string>
     <string name="bracelet_login_info">Используйте свой Mi аккаунт для отслеживания вашего здоровья и успехов в фитнесе</string>
     <string name="male">Мужской</string>
     <string name="female">Женский</string>
-    <string name="cm">см</string>
+    <string name="cm">" см"</string>
     <string name="congrats">Поздравляем!</string>
     <string name="start_use">Поехали!</string>
     <string name="share">Поделиться</string>
     <string name="person_info_finished_info">Настройка Mi Band завершена</string>
-    <string name="kg">кг</string>
+    <string name="kg">" кг"</string>
     <string name="new_friend_cancel">Отказаться</string>
     <string name="new_friend_accept">Принять</string>
     <string name="search_devices_title">Поиск Mi Band</string>
@@ -113,8 +113,8 @@ Mi Band поддерживает только Android 4.4 и выше."</string>
     <string name="odo">Всего километров</string>
     <string name="daily_sporty">Шагов в среднем</string>
     <string name="unknown_location">Неизвестное местоположение</string>
-    <string name="km">км</string>
-    <string name="cal">Ккал</string>
+    <string name="km">" км"</string>
+    <string name="cal">ккал</string>
     <string name="step">шагов</string>
     <string name="point">очков</string>
     <string name="unknown_mili">Мой</string>
@@ -270,7 +270,7 @@ Mi Band поддерживает только Android 4.4 и выше."</string>
     <string name="dynamic_sleep_tip">Всего</string>
     <string name="dynamic_sleep_deep_title">Медленный сон: %s</string>
     <string name="dynamic_detail_sleep_title_yesterday">Сон прошлой ночью</string>
-    <string name="dynamic_detail_step_share_title">%s активность</string>
+    <string name="dynamic_detail_step_share_title">%s</string>
     <string name="dynamic_detail_step_title_today">Сегодня</string>
     <string name="dynamic_sleep_deep">Медленный</string>
     <string name="dynamic_sleep_shallow">Быстрый</string>
@@ -380,7 +380,7 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="unlock_screen_set_password">1) Установите пароль</string>
     <string name="unlock_screen_set_use_bracelet_tips">Подтвердите пароль</string>
     <string name="unlock_screen_set_use_bracelet">2) Включите возможность разблокировки с помощью Mi Band</string>
-    <string name="unlock_screen_set_success">Установлена разблокировка экрана с помощью Mi Band.</string>
+    <string name="unlock_screen_set_success">Установлена разблокировка экрана с помощью Mi Band</string>
     <string name="unlock_screen_modify_unlock">"Если вы хотите изменить настройки,
 перейдите в Настройки > Экран блокировки."</string>
     <string name="bind_weixin_title">Синхронизируйтесь, чтобы делится и соревноваться с друзьями.</string>
@@ -397,7 +397,7 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="one_week">"На этой неделе "</string>
     <string name="walked">"Пройдено "</string>
     <string name="come_from_xiaomi_bracelet">От Mi Band</string>
-    <string name="unlock_screen_invalid">Если не получается разблокировать?</string>
+    <string name="unlock_screen_invalid">Не получается разблокировать?</string>
     <string name="unlock_screen_help_title0">Mi Band достаточно близко к устройству?</string>
     <string name="unlock_screen_help_title1">Перезапустите Bluetooth</string>
     <string name="unlock_screen_help_title2">Сбросьте блокировку экрана</string>
@@ -637,7 +637,7 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="sport_running_start">Старт</string>
     <string name="sport_running_time_desc">Время</string>
     <string name="sport_share">Поделиться</string>
-    <string name="stat_step_calorie_piece">ккал</string>
+    <string name="stat_step_calorie_piece">Ккал</string>
     <string name="stat_step_distance_piece">Расстояние</string>
     <string name="stat_step_piece">Шагов</string>
     <string name="stat_step_run_calorie">Бег\n(сожжено)</string>
