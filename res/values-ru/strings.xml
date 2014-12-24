@@ -200,7 +200,7 @@ Mi Band поддерживает только Android 4.4 и выше."</string>
     <string name="stat_sleep_shallow_average">Быстрый сон\nв среднем</string>
     <string name="stat_sleep_time_average">Засыпание</string>
     <string name="stat_sleep_rise_time_average">Пробуждение</string>
-    <string name="stat_sleep_wake_average">Подъем за</string>
+    <string name="stat_sleep_wake_average">Подъем</string>
     <string name="bmenu_dynamic">Обновления</string>
     <string name="bmenu_device">Устройства</string>
     <string name="bmenu_my">Я</string>
@@ -308,10 +308,10 @@ Mi Band поддерживает только Android 4.4 и выше."</string>
     <string name="step_per_day">" шагов/день"</string>
     <string name="remain_days_format">Последняя зарадка: %s дн. назад</string>
     <string name="remain_days_today_format">Последняя зарядка: менее 1 дня назад</string>
-    <string name="blue">Синяя</string>
-    <string name="red">Красная</string>
-    <string name="green">Зеленая</string>
-    <string name="orange">Оранжевая</string>
+    <string name="blue">Синий</string>
+    <string name="red">Красный</string>
+    <string name="green">Зеленый</string>
+    <string name="orange">Оранжевый</string>
     <string name="fw_upgrade_now">Обновление прошивки…</string>
     <string name="please_input_age">Возраст</string>
     <string name="your_height">Рост</string>
@@ -538,8 +538,8 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="lab_factory_sport_button_restart">Перезапуск</string>
     <string name="lab_factory_sport_button_stop">Стоп</string>
     <string name="lab_factory_sport_come_on">Продолжайте!</string>
-    <string name="lab_factory_sport_continuous_ropeskipping">Период</string>
-    <string name="lab_factory_sport_continuous_situp">Период</string>
+    <string name="lab_factory_sport_continuous_ropeskipping">Продолжительность</string>
+    <string name="lab_factory_sport_continuous_situp">Продолжительность</string>
     <string name="lab_factory_sport_device_preparing">Готово</string>
     <string name="lab_factory_sport_finish_desc">Готово</string>
     <string name="lab_factory_sport_gb_count">Лучший результат: %d раз</string>
