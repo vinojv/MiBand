@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="weeks">
-        <item>Пон.</item>
-        <item>Вівт.</item>
-        <item>Сер.</item>
-        <item>Четв.</item>
-        <item>П\'ят.</item>
-        <item>Суб.</item>
-        <item>Нед.</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Нд</item>
     </string-array>
     <string-array name="weeks_short">
-        <item>Пон.</item>
-        <item>Вівт.</item>
-        <item>Сер.</item>
-        <item>Четв.</item>
-        <item>П\'ят.</item>
-        <item>Суб.</item>
-        <item>Нед.</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Нд</item>
     </string-array>
     <string-array name="months">
         <item>Січень</item>
@@ -33,10 +33,10 @@
         <item>Грудень</item>
     </string-array>
     <string-array name="select_days_simple">
-        <item>Один раз</item>
+        <item>Одноразово</item>
         <item>Щоденно</item>
-        <item>З ПН. по ПТ.</item>
-        <item>Налаштування</item>
+        <item>По будням</item>
+        <item>Вибрати дні</item>
     </string-array>
     <string-array name="fortune">
         <item>Легко досягти мети сьогодні, але не легко кожний день.</item>
@@ -44,11 +44,11 @@
         <item>Ви ставите рекорди щодня!</item>
         <item>Насолоджуйтесь самовдосконаленням!</item>
         <item>Пока ви намагаєтесь - ви ніколи не будете невдахою.</item>
-        <item>Ми те, що ми робимо.</item>
-        <item>Досягнута мета дня.</item>
+        <item>Ми те, що ми робимо</item>
+        <item>Досягнута мета дня</item>
         <item>Киньте виклик собі сьогодні, щоб стати краще завтра.</item>
-        <item>Просто зробіть це.</item>
-        <item>Продовжуйте практикуватися.</item>
+        <item>Просто зробіть це</item>
+        <item>Продовжуйте практикуватися</item>
     </string-array>
     <string-array name="weather_aqi_descriptions">
         <item>відмінне</item>
