@@ -757,4 +757,22 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="sensor_hub_tip">Отображение и подсчет шагов работает за счет встроенного сопроцессора (Sensor Hub). После привязки браслета, эти данные будут использованы просто для справки, и сохраняться в облако не будут.</string>
     <string name="service_call_notice">Доступна круглосуточная тех. поддержка по телефону</string>
     <string name="watermark_search_location">\#обнаружение местоположения#</string>
+    <string name="action_pop_service">Сервисы</string>
+    <string name="incoming_call_notify_closed">Уведомление о входящем вызове отменено</string>
+    <string name="incomingcall_info_1">Это уведомление заставит приложение работать в фоне постоянно.</string>
+    <string name="incomingcall_info_2">"Заблокируйте приложение Mi Band app и
+добавьте Mi Band в белый список сторонних менеджеров если они существуют."</string>
+    <string name="incomingcall_info_3">Добавьте Mi Band в белый список сторонних менеджеров если они существуют.</string>
+    <string name="share_image_preparing">Подготовка к отправке</string>
+    <string name="sport_running_auto_pause">Автообнаружение паузы</string>
+    <string name="sport_running_cal_burnt">%d ккал</string>
+    <string name="sport_running_cal_desc">Сожжено</string>
+    <string name="sport_running_cal_with_unit">Сожжено (ккал)</string>
+    <string name="sport_running_label_hint">Название</string>
+    <string name="sport_running_marathon_cost_time">(Весь марафон необходимо держать ритм %s)</string>
+    <string name="sport_running_share">Отправить</string>
+    <string name="sport_running_sport_state_sr_tips">Автопауза (отменится во время бега)</string>
+    <string name="sport_running_step_frequency">Частота (шагов/мин)</string>
+    <string name="sport_running_watermark">Водяной знак</string>
+    <string name="title_health_link_service">Сервисы Health Care</string>
 </resources>
