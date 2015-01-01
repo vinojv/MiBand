@@ -715,8 +715,8 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="btn_continue">Отмена</string>
     <string name="btn_delete">Удалить</string>
     <string name="btn_save">Сохранить</string>
-    <string name="connected_broadcast">Вещание при подключении</string>
-    <string name="connected_broadcast_tips">Используется для тестового контроля</string>
+    <string name="connected_broadcast">Bluetooth вещание</string>
+    <string name="connected_broadcast_tips">Убедитесь, что браслеты будут найдены</string>
     <string name="debug_host_label">Адрес тестового компьютера:</string>
     <string name="host_can_not_be_empty">Адрес не может быть пустым</string>
     <string name="host_change_error">Не удалось сменить адрес</string>
@@ -749,7 +749,7 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="weight_unbinded">Отвязать Weight Scale</string>
 	<string name="donot_have_band">Нет Mi Band?</string>
 	<string name="running_gps_poor_signal">Слабый сигнал GPS. Рекомендуется находиться в открытом пространстве.</string>
-    <string name="connected_broadcast_disconnect_tips">Сначала подключите браслет для настройки</string>
+    <string name="connected_broadcast_disconnect_tips">Перед настройкой подключите браслет</string>
     <string name="health_care_country_limit">Регион: континентальный Китай</string>
     <string name="health_care_date_limit">Время действия: 1 год бесплатно</string>
     <string name="health_provider_desc">Услуга предоставляется HealthLink</string>
