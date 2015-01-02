@@ -239,7 +239,7 @@ localization_Chinese_table = {
     not_binded_hint="Привязать Mi Band к аккаунту",
     not_binded_hint_info="Так же можно нажать Weight Scale в меню",
     new_record_info="Вы установили новый рекорд!",
-    new_record_format="Шагов: %d | %s %d",
+    new_record_format="Шагов: %d | Дата: %d.%s",
     today_goal_reached="Поздравляем! Сегодня вы достигли свою цель.",
     week_continue_reach_goal="Вы достигали цель на протяжении недели! Отличная неделя!",
 	

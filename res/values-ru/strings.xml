@@ -704,10 +704,10 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="sport_running_resume">Возобновить</string>
     <string name="sport_running_speed_with_unit">Скорость (км/ч)</string>
     <string name="sport_running_stop">Стоп</string>
-    <string name="state_authorization_error">Не удалось войти!</string>
-    <string name="state_authorization_success">Вход выполнен!</string>
-    <string name="state_deauthorization_error">Выход не удался!</string>
-    <string name="state_deauthorization_success">Успешный вход!</string>
+    <string name="state_authorization_error">Ошибка авторизации</string>
+    <string name="state_authorization_success">Авторизация завершена</string>
+    <string name="state_deauthorization_error">Ошибка выхода</string>
+    <string name="state_deauthorization_success">Выход завершен</string>
     <string name="unit_sec_short">с</string>
     <string name="user_agreement_ux">Присоединиться к программе улучшения качества UX</string>
     <string name="bind_weight_scale">Привязать Weight Scale</string>
@@ -716,7 +716,7 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="btn_delete">Удалить</string>
     <string name="btn_save">Сохранить</string>
     <string name="connected_broadcast">Bluetooth вещание</string>
-    <string name="connected_broadcast_tips">Убедитесь, что браслеты будут найдены</string>
+    <string name="connected_broadcast_tips">Убедитесь, что браслеты находятся близко друг к другу.</string>
     <string name="debug_host_label">Адрес тестового компьютера:</string>
     <string name="host_can_not_be_empty">Адрес не может быть пустым</string>
     <string name="host_change_error">Не удалось сменить адрес</string>
