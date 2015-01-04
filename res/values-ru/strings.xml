@@ -716,7 +716,7 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="btn_delete">Удалить</string>
     <string name="btn_save">Сохранить</string>
     <string name="connected_broadcast">Bluetooth вещание</string>
-    <string name="connected_broadcast_tips">Убедитесь, что браслеты находятся близко друг к другу.</string>
+    <string name="connected_broadcast_tips">Позволяет другим устройствам обнаруживать браслет</string>
     <string name="debug_host_label">Адрес тестового компьютера:</string>
     <string name="host_can_not_be_empty">Адрес не может быть пустым</string>
     <string name="host_change_error">Не удалось сменить адрес</string>
