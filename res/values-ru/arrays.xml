@@ -70,4 +70,22 @@
         <item>цзинь</item>
         <item>фунт</item>
      </string-array>
+	 <string-array name="health_link_title">
+        <item>1. Круглосуточный сервис</item>
+        <item>2. Полезные советы</item>
+        <item>3. Экстренный вызов транспорта</item>
+        <item>4. Помощь при авариях</item>
+        <item>5. Помощь в семейных отношениях</item>
+        <item>6. Вызов скорой помощи</item>
+        <item>7. Справочник по больницам</item>
+    </string-array>
+	<string-array name="health_link_content">
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+    </string-array>
 </resources>
