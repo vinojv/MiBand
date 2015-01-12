@@ -704,10 +704,10 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
       <string name="sport_running_resume">Оновити</string>
       <string name="sport_running_speed_with_unit">Швидкість (км/г)</string>
       <string name="sport_running_stop">Стоп</string>
-      <string name="state_authorization_error">Помилка авторизації</string>
-      <string name="state_authorization_success">Авторизація завершена</string>
-      <string name="state_deauthorization_error">Помилка виходу</string>
-      <string name="state_deauthorization_success">Вихід завершено</string>
+      <string name="state_authorization_error">Не вдалося увійти!</string>
+      <string name="state_authorization_success">Вход виконано!</string>
+      <string name="state_deauthorization_error">Вихід не вдалося!</string>
+      <string name="state_deauthorization_success">Успішний вхід!</string>
       <string name="unit_sec_short">с</string>
       <string name="user_agreement_ux">Приєднатися до програми покращення якості UX</string>
 	  <string name="bind_weight_scale">Прив\'язати Weight Scale</string>
@@ -715,8 +715,8 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
       <string name="btn_continue">Скасувати</string>
       <string name="btn_delete">Видалити</string>
       <string name="btn_save">Зберегти</string>
-    <string name="connected_broadcast">Bluetooth мовлення</string>
-    <string name="connected_broadcast_tips">Дозволяє іншим пристроям знаходити браслет</string>
+    <string name="connected_broadcast">Мовлення при підключенні</string>
+    <string name="connected_broadcast_tips">Використовується для тестового контролю</string>
     <string name="debug_host_label">Адреса тестового комп\'ютера:</string>
     <string name="host_can_not_be_empty">Адреса не може бути пустою</string>
     <string name="host_change_error">Не вдалося змінити адресу</string>
@@ -749,30 +749,4 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="weight_unbinded">Відв\'язати Weight Scale</string>
     <string name="donot_have_band">Немає Mi Band?</string>
     <string name="running_gps_poor_signal">Слабкий сигнал GPS. Радимо знаходитися на відкритому просторі.</string>
-    <string name="connected_broadcast_disconnect_tips">Перед налаштування підключіть браслет</string>
-    <string name="health_care_country_limit">Регіон: континентальний Китай</string>
-    <string name="health_care_date_limit">Час дії: 1 рік безкоштовно</string>
-    <string name="health_provider_desc">Послуга надається HealthLink</string>
-    <string name="notice_for_users">Спеціально для користувачів MiBand</string>
-    <string name="sensor_hub_tip">Відображення і підрахунок кроків працює за рахунок вбудованого сопроцесора (Sensor Hub). Після прив\'язування браслету, ці дані будуть використані просто для довідки, і зберігатися у хмару не будуть.</string>
-    <string name="service_call_notice">Доступна цілодобова тех. підтримка по телефону</string>
-    <string name="watermark_search_location">\#визначення місцезнаходження#</string>
-    <string name="action_pop_service">Сервіси</string>
-    <string name="incoming_call_notify_closed">Сповіщення про вхідний виклик вимкнено</string>
-    <string name="incomingcall_info_1">Це сповіщення примусить застосунок працювати в фоні постійно.</string>
-    <string name="incomingcall_info_2">"Заблокуйте застосунок Mi Band app і
-додайте Mi Band у білий список сторонніх менеджерів якщо вони існують."</string>
-    <string name="incomingcall_info_3">Додайте Mi Band у білий список сторонніх менеджерів якщо вони існують.</string>
-    <string name="share_image_preparing">Підготовка до відправлення</string>
-    <string name="sport_running_auto_pause">Автовизначення паузи</string>
-    <string name="sport_running_cal_burnt">%d ккал</string>
-    <string name="sport_running_cal_desc">Спалено</string>
-    <string name="sport_running_cal_with_unit">Спалено (ккал)</string>
-    <string name="sport_running_label_hint">Назва</string>
-    <string name="sport_running_marathon_cost_time">(Весь марафон необхідно тримати ритм %s)</string>
-    <string name="sport_running_share">Відправити</string>
-    <string name="sport_running_sport_state_sr_tips">Автопауза (скасується під час бігу)</string>
-    <string name="sport_running_step_frequency">Частота (кроків/хв.)</string>
-    <string name="sport_running_watermark">Водяний знак</string>
-    <string name="title_health_link_service">Сервіси Health Care</string>
 </resources>

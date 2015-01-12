@@ -238,7 +238,7 @@ localization_Chinese_table = {
     not_binded_hint="Прив\'язати Mi Band до акаунту",
     not_binded_hint_info="Також можна натиснути Weight Scale в меню",
     new_record_info="Ви встановили новий рекорд!",
-    new_record_format="Кроків: %d | Дата: %d.%s",
+    new_record_format="Кроків: %d | %s %d",
     today_goal_reached="Вітаємо! Сьогодні ви досягли своєї мети.",
     week_continue_reach_goal="Ви досягли мети протягом тижня! Відмінний тиждень!",
 
