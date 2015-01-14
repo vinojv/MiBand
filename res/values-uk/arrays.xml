@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeks">
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Нд</item>
+    </string-array>
+    <string-array name="weeks_short">
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Нд</item>
+    </string-array>
+    <string-array name="months">
+        <item>Січень</item>
+        <item>Лютий</item>
+        <item>Березень</item>
+        <item>Квітень</item>
+        <item>Травень</item>
+        <item>Червень</item>
+        <item>Липень</item>
+        <item>Серпень</item>
+        <item>Вересень</item>
+        <item>Жовтень</item>
+        <item>Листопад</item>
+        <item>Грудень</item>
+    </string-array>
+    <string-array name="select_days_simple">
+        <item>Одноразово</item>
+        <item>Щоденно</item>
+        <item>По буднях</item>
+        <item>Вибрати дні</item>
+    </string-array>
+    <string-array name="fortune">
+        <item>Легко досягти мети, але не легко кожен день.</item>
+        <item>Не легко досягати мети кожен день</item>
+        <item>Ви ставите рекорди кожен день!</item>
+        <item>Насолоджуйтеся самовдосконаленням!</item>
+        <item>Поки ви намагаєтеся ви ніколи не будете невдахою.</item>
+        <item>Ми те, що ми робимо</item>
+        <item>Досягнута мета дня</item>
+        <item>Киньте виклик собі сьогодні, щоб стати краще завтра.</item>
+        <item>Просто зробіть це</item>
+        <item>Продовжуйте практикуватися</item>
+    </string-array>
+    <string-array name="weather_aqi_descriptions">
+        <item>відмінне</item>
+        <item>хороше</item>
+        <item>помірне</item>
+        <item>помірне</item>
+        <item>погане</item>
+        <item>дуже погане</item>
+    </string-array>
+     <string-array name="weight_body_figures">
+        <item>Худорлява</item>
+        <item>Нормальна</item>
+        <item>Надлишкова вага</item>
+        <item>Товста</item>
+        <item>Дуже товста</item>
+     </string-array>
+     <string-array name="weight_test_unit">
+        <item>кг</item>
+        <item>цзинь</item>
+        <item>фунт</item>
+     </string-array>
+	 <string-array name="health_link_title">
+        <item>1. Цілодобовий сервіс</item>
+        <item>2. Корисні поради</item>
+        <item>3. Екстрений виклик транспорту</item>
+        <item>4. Допомога при аваріях</item>
+        <item>5. Допомога в сімейних відносинах</item>
+        <item>6. Виклик швидкої допомоги</item>
+        <item>7. Довідник по лікарнях</item>
+    </string-array>
+	<string-array name="health_link_content">
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+    </string-array>
+</resources>
