@@ -790,4 +790,5 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="watermark_guide_tips">Утримуйте для переміщення</string> 
     <string name="no_bracelet_tips">(доступно тільки при активному підключенні Mi band)</string> 
     <string name="action_mark">Поведінка міток</string>
+	<string name="picker_menu_done">Готово</string>
 </resources>

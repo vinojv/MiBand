@@ -794,4 +794,5 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="watermark_guide_tips">Удерживайте для перемещения</string>
     <string name="no_bracelet_tips">(доступно только при активном подключении Mi band)</string>
     <string name="action_mark">Поведение меток</string>
+	<string name="picker_menu_done">Готово</string>
 </resources>
