@@ -70,6 +70,11 @@
         <item>цзинь</item>
         <item>фунт</item>
      </string-array>
+	 <string-array name="weight_unit">
+        <item>кг</item>
+        <item>цзинь</item>
+        <item>фунт</item>
+    </string-array>
 	 <string-array name="health_link_title">
         <item>1. Круглосуточный сервис</item>
         <item>2. Полезные советы</item>
@@ -87,5 +92,48 @@
         <item>" "</item>
         <item>" "</item>
         <item>" "</item>
+    </string-array>
+	<string-array name="weight_dynamic_list_bmi_tips">
+        <item>Недостаток веса</item>
+        <item>Вес в норме</item>
+        <item>Избыток веса</item>
+        <item>Избыток веса</item>
+    </string-array>
+    <string-array name="weight_report_suggestions_boy">
+        <item>Больше занимайтесь спортом и употребляйте больше белка для роста мышц.</item>
+        <item>Не изменяйте нынешним жизненным привычкам, чтобы сохранить фигуры текущую фигуру.</item>
+        <item>Рекомендуется сократить потребление жиров, сохраняя потребление белка и больше уделять внимание спорту.</item>
+        <item>Рекомендуется сократить потребление жиров, сохраняя потребление белка и больше уделять внимание спорту.</item>
+    </string-array>
+    <string-array name="weight_report_suggestions_girl">
+        <item>Больше занимайтесь спортом и употребляйте больше белка для роста мышц.</item>
+        <item>Не изменяйте нынешним жизненным привычкам, чтобы сохранить фигуры текущую фигуру.</item>
+        <item>Рекомендуется сократить потребление жиров, сохраняя потребление белка и больше уделять внимание спорту.</item>
+        <item>Рекомендуется сократить потребление жиров, сохраняя потребление белка и больше уделять внимание спорту.</item>
+    </string-array>
+    <string-array name="weight_report_result_without_goal">
+        <item>Избыток веса</item>
+        <item>Недостаток веса</item>
+        <item>Вес в норме</item>
+    </string-array>
+    <string-array name="weight_report_result_with_goal_gainweight">
+        <item>"Цель не достигнута
+Приложите больше усилий"</item>
+        <item>"Цель не достигнута
+Приложите больше усилий"</item>
+        <item>"Цель не достигнута
+Приложите больше усилий"</item>
+        <item>"Поздравляем!
+Вы превзошли свою цель %1$s%2$s"</item>
+    </string-array>
+    <string-array name="weight_report_result_with_goal_loseweight">
+        <item>"Цель не достигнута
+Приложите больше усилий"</item>
+        <item>"Цель не достигнута
+Приложите больше усилий"</item>
+        <item>"Цель не достигнута
+Приложите больше усилий"</item>
+        <item>"Поздравляем!
+Вы превзошли свою цель %1$s%2$s"</item>
     </string-array>
 </resources>
