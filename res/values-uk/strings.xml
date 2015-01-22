@@ -793,9 +793,9 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
 	<string name="picker_menu_done">Готово</string>
 	<string name="unit_weight">кг</string>
 	<string name="unlock_screen_modify_unlock_v5">"Для зміни налаштувань блокування перейдіть в
-Налаштування-> Конфіденціальность-> Розблокування Bluetooth пристроєм"</string>
+Налаштування-> Конфіденційність-> Розблокування Bluetooth пристроєм"</string>
     <string name="unlock_screen_modify_unlock_v6">"Для зміни налаштувань блокування перейдіть в
-Налаштування-> Екран блокіровкі-> Розблокування Bluetooth пристроєм"</string>
+Налаштування-> Екран блокування-> Розблокування Bluetooth пристроєм"</string>
     <string name="weight_dynamic_title">%1$s %2$s, вага %3$s%4$s</string>
     <string name="weight_dynamic_visitor_title">%1$s вага %2$s%3$s</string>
     <string name="weight_guest">Користувачі</string>
@@ -803,14 +803,14 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="bind_mi_weight_about"><Data>&lt;a href=http://www.mi.com>Показати ваги на сайті&lt;/a></Data></string>
     <string name="bind_mi_weight_howto">Інструкція</string>
 	<string name="unbind_weight_scale">Відв\'язати ваги?</string>
-    <string name="weight_fw_upgrade_tips">При оновленні телефоном повинен знаходитися поряд з вагами</string>
+    <string name="weight_fw_upgrade_tips">При оновленні телефон повинен знаходитися поряд з вагами</string>
     <string name="weight_fw_upgrade_title">Оновлення прошивки ваг</string>
     <string name="weight_not_found_title">Ваги не знайдені</string>
-    <string name="weight_not_found_info">Перебуваєте поруч з вагами</string>
+    <string name="weight_not_found_info">Знаходьтесь поруч з вагами</string>
     <string name="about_mi_band">Використовуйте Mi Band, щоб стежити за своїм здоров\'ям і спортивною формою вдень і вночі.</string>
     <string name="weight_dynamic_list_visit_tips">Натисніть для вибору користувачів</string>
     <string name="find_weight_scale">Знайти ваги</string>
-    <string name="find_weight_scale_info">Станьте на ваги для прив\'язки</string>
+    <string name="find_weight_scale_info">Станьте на ваги для прив\'язування</string>
     <string name="bind_weight_fail">Не вдалося прив\'язати ваги</string>
     <string name="device_not_found">Пристрій не знайдено</string>
     <string name="connecting">Підключення…</string>
@@ -818,7 +818,7 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="look_weight_device_list">Показати ваги поблизу</string>
     <string name="family_member">Сім\'я</string>
     <string name="user_staron_me">Передплатники</string>
-    <string name="weight_measure">Мера</string>
+    <string name="weight_measure">Міра</string>
     <string name="baby_weight">Дитина</string>
     <string name="visitor_weight">Вага</string>
     <string name="name">Iм\'я</string>
@@ -830,9 +830,9 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="weight_report_suggest">Рекомендація:</string>
     <string name="weight_report_user_info_header">Відправити звіт: %1$s</string>
     <string name="weight_help_title_0">Ваги знаходяться дуже далеко?</string>
-    <string name="weight_help_info_0">Переконайтеся, що ваги знаходяться близько до пристрою протягом всього процесу прив\'язки.</string>
+    <string name="weight_help_info_0">Переконайтеся, що ваги знаходяться близько до пристрою протягом всього процесу прив\'язування.</string>
     <string name="weight_help_title_1">Перевірте заряд батареї ваг</string>
-    <string name="weight_help_info_1">Переконайтеся, що батарея терезів не розряджена.</string>
+    <string name="weight_help_info_1">Переконайтеся, що батарея вагів не розряджена.</string>
     <string name="weight_help_title_2">Перезапустіть Bluetooth</string>
     <string name="weight_help_info_2">Вимкніть та увімкніть Bluetooth в налаштуваннях системи</string>
     <string name="weight_help_title_3">Ваги прив\'язані до іншого пристрою?</string>
@@ -842,15 +842,15 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="weight_history_dynamic_title">Синхронізовано: %1$s</string>
     <string name="weight_history_dynamic_detail">Синхронізовано: %1$s в %2$s</string>
 	<string name="weight_weighting_now">Зважити</string>
-    <string name="weight_edit">Імзеніть</string>
+    <string name="weight_edit">Змінити</string>
     <string name="weight_edit_delete">Видалити запис</string>
     <string name="weight_edit_move">Перемістити запис</string>
     <string name="weight_delete_confirm_title">Видалення</string>
     <string name="weight_delete_confirm_msg">Видалити запис %s?</string>
     <string name="weighting_failed">"Не вдалося зважити.
-Зійдіть з весок, коли буде блимати індикатор."</string>
+Зійдіть з вагів, коли буде блимати індикатор."</string>
     <string name="select_devices">Вибрати пристрої</string>
-    <string name="select_devices_info">Виберіть пристрій для прив\'язки</string>
+    <string name="select_devices_info">Виберіть пристрій для прив\'язування</string>
     <string name="weight_settings_merge_title">Записи будуть об\'єднані</string>
     <string name="weight_settings_merge_tips">Зважування було вироблено з інтервалів в 30 секунд</string>
 	<string name="sport_running_backgroud_notification">Побігли!</string>
@@ -861,15 +861,15 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="action_walk">Прогулянка</string>
     <string name="action_badminton">Бадмінтон</string>
     <string name="action_basketball">Баскетбол</string>
-    <string name="action_pingpong">Пінгпонга</string>
+    <string name="action_pingpong">Пінгпонг</string>
     <string name="complete">Майже</string>
-    <string name="notice_for_tag_time">Число після \"X\" означає, скільки разів ви відзначені.</string>
+    <string name="notice_for_tag_time">Число після \"X\" означає, скільки разів ви позначені.</string>
     <string name="choose_tag_item">Чим ви плануєте зайнятися?</string>
     <string name="confirm_complete_tag">Закінчити заняття?</string>
     <string name="tag_data_collecting">Завантаження даних…</string>
     <string name="toast_behavior_tag_failed">Не вдалося зібрати дані про поведінку</string>
-    <string name="toast_enable_behavior_tag">Відстеження поведінки включено</string>
-    <string name="toast_disable_behavior_tag">Відстеження поведінки відключено</string>
+    <string name="toast_enable_behavior_tag">Відстеження поведінки увімкнено</string>
+    <string name="toast_disable_behavior_tag">Відстеження поведінки вимкнено</string>
     <string name="action_brush_tooth">Чищення зубів</string>
     <string name="data_loading">Завантаження…</string>
 </resources>
