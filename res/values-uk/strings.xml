@@ -581,7 +581,7 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
       <string name="lab_factory_sport_type_riding">Їзда</string>
       <string name="lab_factory_sport_type_ropeskipping">Скакалка</string>
       <string name="lab_factory_sport_type_running">Біг</string>
-      <string name="lab_factory_sport_type_situp">Присідання</string>
+      <string name="lab_factory_sport_type_situp">Прес</string>
       <string name="lab_factory_sport_type_skidding">Ковзани</string>
       <string name="lab_factory_sport_type_sliding">Скейтборд</string>
       <string name="lab_factory_sport_type_swimming">Плавання</string>
@@ -872,4 +872,24 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="toast_disable_behavior_tag">Відстеження поведінки вимкнено</string>
     <string name="action_brush_tooth">Чищення зубів</string>
     <string name="data_loading">Завантаження…</string>
+	<string name="noti_weight_low_battery_title">Батарея ваг розряджена</string>
+    <string name="noti_weight_low_battery_content">Зарядіть батарею на вагах</string>
+	<string name="weight_unbind_question">Устройство не будет сохранять записи весов после завершения сопряжения</string>
+	<string name="dynamic_title_bracelet_unbind">Мі Група відв\'язано</string>
+    <string name="dynamic_title_weight_unbind">Ваги відв\'язані</string>
+	<string name="unlock_screen_help_title3">Перезавантажитеся і спробуйте ще раз</string>
+    <string name="unlock_screen_help_info3">Після перезавантаження пристрою спробуйте розблокувати його за допомогою Mi Band</string>
+	<string name="weight_history_dynamic_detail_oneday">Синхронізація: %1$s</string>
+	<string name="not_fount_available_userinfo">Не вдалося знайти користувача</string>
+    <string name="choose_userinfo_for_weight">Виберіть користувача повторно</string>
+    <string name="visitor">Гість</string>
+    <string name="new_user">Новий користувач</string>
+    <string name="set_goal_weight_tips">Згідно медичної інформації, ваша вага обчислюється через індекс маси тіла %1$s-%2$s%3$s</string>
+    <string name="set_weight_goal">Встановити мету ваги</string>
+    <string name="set_weight_goal_yes">ОК</string>
+    <string name="set_weight_goal_no">Скасування</string>
+    <string name="weight_tip_bmi_name">Що таке ІМТ</string>
+    <string name="weight_tip_bmi_content">ІМТ - величина, що дозволяє оцінити ступінь відповідності маси людини та її зростання і тим самим побічно оцінити, чи є маса недостатньою, нормальною або надлишковою. Важливий при визначенні показань для необхідності лікування.</string>
+    <string name="weight_tip_fat_name">Значення ІМТ</string>
+    <string name="weight_tip_fat_content">ІМТ розраховується із значення висоти і ваги для простих критеріїв визначення ожиріння. Необхідно уточнити вага м\'язів і жиру.</string>
 </resources>

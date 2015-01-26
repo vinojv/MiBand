@@ -271,7 +271,7 @@ localization_Chinese_table = {
     activity_walk_format="%s %d шагов, %s",
     activity_walk_consumed_format="Сожжено %d ккал %s",
     activity_rope_skipping_format="%s прыжков на скакалке: %d",
-    activity_situp_format="%s приседаний: %d",
+    activity_situp_format="%s пресс: %d",
     activity_consumed_format="Сожжено ккал: %d %s",
     activity_activity_format="%s %s %s",
     activity_activity_format_run="%s %s %s",
@@ -327,7 +327,7 @@ localization_Chinese_table = {
     ---====== Weather tips ===============
     weather_tips_title_0 = "Сильное загрязнение, лучше останьтесь дома.",
     weather_tips_title_1 = "Сильное загрязнение, лучше останьтесь дома.",
-    weather_tips_info = "Приседания или занятия со скакалкой - отличные упражнения в помещении!",
+    weather_tips_info = "Пресс или прыжки на скакалке - отличные упражнения в помещении!",
 
     ---------------Weight scale -------------------
     welcome_use_weight_scale = "Добро пожаловать в Weight Scale",
