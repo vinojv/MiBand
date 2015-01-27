@@ -4,7 +4,7 @@
       <string name="pull_to_refresh_release_label">Відпустіть для оновлення</string>
       <string name="pull_to_refresh_refreshing_label">Завантаження…</string>
       <string name="pull_to_refresh_from_bottom_pull_label">Завантажити</string>
-      <string name="app_name">Mi Band</string>
+      <string name="app_name">Mi Fit</string>
       <string name="action_exit">Вихід</string>
       <string name="register">Реєстрація</string>
       <string name="login">Вхід</string>
@@ -531,7 +531,7 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
       <string name="lab_factory_share_photo_menu_camera">Камера</string>
       <string name="lab_factory_share_photo_menu_gallery">Галерея</string>
       <string name="lab_factory_share_photo_menu_title">Вибрати фото</string>
-      <string name="lab_factory_sport_accumulate">Усього: %d</string>
+      <string name="lab_factory_sport_accumulate">Кількість: %d</string>
       <string name="lab_factory_sport_analyser_activity_not_found">Не вдалося завантажити інтерфейс</string>
       <string name="lab_factory_sport_average_rate_per_minute">Швидкість: &lt;b>%d&lt;/b> раз/хв</string>
       <string name="lab_factory_sport_best_record">"Кращий результат: "</string>
@@ -564,8 +564,8 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
       <string name="lab_factory_sport_pb_situp"/>
       <string name="lab_factory_sport_result_cost_cal">Спалено %d ккал</string>
       <string name="lab_factory_sport_sec">%d сек.</string>
-      <string name="lab_factory_sport_share_info_accumulated_time"></string>
-      <string name="lab_factory_sport_share_info_accumulated_time_once"></string>
+      <string name="lab_factory_sport_share_info_accumulated_time">"Усього "</string>
+      <string name="lab_factory_sport_share_info_accumulated_time_once">"Усього "</string>
       <string name="lab_factory_sport_share_info_current_accumulation">Накопичено</string>
       <string name="lab_factory_sport_share_info_group_record">Групової рекорд</string>
       <string name="lab_factory_sport_share_info_history_best_record">"Загальний рекорд: "</string>
@@ -614,9 +614,9 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
       <string name="set_alarm_time">Встановити будильник</string>
       <string name="share_step_ranking">Ви обійшли &lt;b>%s&lt;/b> користувачів</string>
       <string name="signal_strength">Потужність сигналу: </string>
-      <string name="sport_new_record_ropeskipping">новий рекорд</string>
+      <string name="sport_new_record_ropeskipping">Новий рекорд</string>
       <string name="sport_ranking_desc_great">Ви непереможні!</string>
-      <string name="sport_ranking_desc_normal" formatted="false">Ви обійшли користувачів: &lt;b>%s%&lt;/b> %s.</string>
+      <string name="sport_ranking_desc_normal" formatted="false">Ви обійшли &lt;b>%s&lt;/b> користувачів (%s)</string>
       <string name="sport_ranking_desc_poor">Кожен %s користувач вас обійшов!</string>
       <string name="sport_running_distance_detail">%s км</string>
       <string name="sport_running_gps_cancel">Скасувати</string>
