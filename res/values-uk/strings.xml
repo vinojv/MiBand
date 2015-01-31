@@ -874,8 +874,8 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="data_loading">Завантаження…</string>
 	<string name="noti_weight_low_battery_title">Батарея ваг розряджена</string>
     <string name="noti_weight_low_battery_content">Зарядіть батарею на вагах</string>
-	<string name="weight_unbind_question">Устройство не будет сохранять записи весов после завершения сопряжения</string>
-	<string name="dynamic_title_bracelet_unbind">Мі Група відв\'язано</string>
+	<string name="weight_unbind_question">Пристрій не буде зберігати записи вагів після завершения сполучення</string>
+	<string name="dynamic_title_bracelet_unbind">Мі група відв\'язано</string>
     <string name="dynamic_title_weight_unbind">Ваги відв\'язані</string>
 	<string name="unlock_screen_help_title3">Перезавантажитеся і спробуйте ще раз</string>
     <string name="unlock_screen_help_info3">Після перезавантаження пристрою спробуйте розблокувати його за допомогою Mi Band</string>
@@ -889,7 +889,7 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="set_weight_goal_yes">ОК</string>
     <string name="set_weight_goal_no">Скасування</string>
     <string name="weight_tip_bmi_name">Що таке ІМТ</string>
-    <string name="weight_tip_bmi_content">ІМТ - величина, що дозволяє оцінити ступінь відповідності маси людини та її зростання і тим самим побічно оцінити, чи є маса недостатньою, нормальною або надлишковою. Важливий при визначенні показань для необхідності лікування.</string>
+    <string name="weight_tip_bmi_content">ІМТ - величина, що дозволяє оцінити ступінь відповідності маси людини та її зростання і тим самим побічно оцінити, чи є маса недостатньою, нормальною або надлишковою. Це важливо при визначенні показань для необхідності лікування.</string>
     <string name="weight_tip_fat_name">Значення ІМТ</string>
-    <string name="weight_tip_fat_content">ІМТ розраховується із значення висоти і ваги для простих критеріїв визначення ожиріння. Необхідно уточнити вага м\'язів і жиру.</string>
+    <string name="weight_tip_fat_content">ІМТ розраховується із значення висоти і ваги для простих критеріїв визначення ожиріння. Необхідно уточнити вагу м\'язів і жиру.</string>
 </resources>
