@@ -875,7 +875,7 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
 	<string name="noti_weight_low_battery_title">Батарея ваг розряджена</string>
     <string name="noti_weight_low_battery_content">Зарядіть батарею на вагах</string>
 	<string name="weight_unbind_question">Пристрій не буде зберігати записи вагів після завершения сполучення</string>
-	<string name="dynamic_title_bracelet_unbind">Мі група відв\'язано</string>
+	<string name="dynamic_title_bracelet_unbind">Мі групу відв\'язано</string>
     <string name="dynamic_title_weight_unbind">Ваги відв\'язані</string>
 	<string name="unlock_screen_help_title3">Перезавантажитеся і спробуйте ще раз</string>
     <string name="unlock_screen_help_info3">Після перезавантаження пристрою спробуйте розблокувати його за допомогою Mi Band</string>
