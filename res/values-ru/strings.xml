@@ -361,7 +361,7 @@ Mi Band поддерживает только Android 4.4 и выше."</string>
     <string name="share_sleep_title">прошлая ночь</string>
     <string name="share_sleep_title_average">" сон в среднем"</string>
     <string name="share_sleep_title_daily">сон</string>
-    <string name="share_step_goal_succ_title_today">ЦАель достигнута!</string>
+    <string name="share_step_goal_succ_title_today">Цель достигнута!</string>
     <string name="share_step_goal_succ_title">Цель достигнута</string>
     <string name="share_step_goal_failed_title_today">Сегодня</string>
     <string name="share_step_goal_failed_title">Всего</string>
