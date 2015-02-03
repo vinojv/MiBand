@@ -909,8 +909,8 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="daily_sport_report_notify">Сьогодні пройдено: %s. Відмінно!</string>
     <string name="daily_sport_report_notify_content">Натисніть для перегляду результатів</string>
     <string name="exceed_user">Кількість користувачів перевищено</string>
-    <string name="setting_daily_sport_notify_info">Нагадати мені в 9:30</string>
-    <string name="setting_daily_sport_notify">Повідомлення про щоденних результатах</string>
+    <string name="setting_daily_sport_notify_info">Повідомляти про щоденні результати в 21:30</string>
+    <string name="setting_daily_sport_notify">Повідомлення про результати</string>
     <string name="daily_sport_report_notify_hurry">Кроків для досягнення сьогоднішньої мети потрібно: %1$s</string>
     <string name="weight_overload_title">Перевищено максимальне значення</string>
     <string name="weight_overload_content">Ваги розраховані на вагу до 150 кг</string>
