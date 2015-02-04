@@ -680,8 +680,8 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
       <string name="sport_running_prepare_map">Підготовка карти…</string>
       <string name="sport_running_start_time">Початок</string>
       <string name="sport_running_step">Кроків</string>
-      <string name="stop">закінчити</string>
-      <string name="start">почати</string>
+      <string name="stop">" "</string>
+      <string name="start">" "</string>
       <string name="bind_devices">Прив\'язати  пристрої</string>
       <string name="bind_mi_band">Прив\'язати Mi Band</string>
       <string name="bind_mi_band_about"><Data>&lt;a href=http://www.miui.su/miband>Сайт Mi Bind&lt;/a></Data></string>
@@ -911,7 +911,7 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="exceed_user">Кількість користувачів перевищено</string>
     <string name="setting_daily_sport_notify_info">Повідомляти про результати в 21:30</string>
     <string name="setting_daily_sport_notify">Повідомлення про результати</string>
-    <string name="daily_sport_report_notify_hurry">Кроків для досягнення сьогоднішньої мети потрібно: %1$s</string>
+    <string name="daily_sport_report_notify_hurry">Кроків потрібно: %1$s</string>
     <string name="weight_overload_title">Перевищено максимальне значення</string>
     <string name="weight_overload_content">Ваги розраховані на вагу до 150 кг</string>
     <string name="weight_overload_confirm">ОК</string>
