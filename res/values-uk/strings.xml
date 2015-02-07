@@ -335,7 +335,7 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
       <string name="share_sleep_title">минула ніч</string>
       <string name="share_sleep_title_average">" сон у середньому"</string>
       <string name="share_sleep_title_daily">сон</string>
-      <string name="share_step_goal_succ_title_today">Сьогодні мета досягнута!</string>
+      <string name="share_step_goal_succ_title_today">Мета досягнута!</string>
       <string name="share_step_goal_succ_title">Мета досягнута</string>
       <string name="share_step_goal_failed_title_today">Сьогодні</string>
       <string name="share_step_goal_failed_title"></string>
@@ -892,7 +892,7 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="weight_tip_bmi_content">ІМТ - величина, що дозволяє оцінити ступінь відповідності маси людини та її зростання і тим самим побічно оцінити, чи є маса недостатньою, нормальною або надлишковою. Це важливо при визначенні показань для необхідності лікування.</string>
     <string name="weight_tip_fat_name">Значення ІМТ</string>
     <string name="weight_tip_fat_content">ІМТ розраховується із значення висоти і ваги для простих критеріїв визначення ожиріння. Необхідно уточнити вагу м\'язів і жиру.</string>
-	<string name="title_activity_weight_tips">Советы по фитнесу</string>
+	<string name="title_activity_weight_tips">Поради з фітнесу</string>
 	<string name="title_activity_tag_data">Дані активності</string>
 	<string name="daily_sport_report">Щоденні результати</string>
     <string name="today_steps">Сьогодні кроків</string>
