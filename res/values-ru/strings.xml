@@ -968,4 +968,9 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="unit_foot">Фут</string>
 	<string name="odo_british">Всего миль</string>
 	<string name="connect_to_retrive">Интернет недоступен</string>
+	<string name="week">Неделя</string>
+    <string name="action_type_error">Ошибка</string>
+    <string name="please_input_name">Введите имя</string>
+    <string name="action_pop_sensorhub">Шагометр</string>
+    <string name="lab_action_tag_agree">ОК</string>
 </resources>
