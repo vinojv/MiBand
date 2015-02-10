@@ -932,4 +932,14 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="tag_connection_f">Помилка підключення</string>
     <string name="tag_connection_f1">Тримайте браслет поруч із пристроєм</string>
     <string name="tag_error_notice">Помилка підключення. Тримайте браслет близько до пристрою під час підключення.</string>
+	<string name="unit_mile">Миля</string>
+	<string name="unit_metric">Система вимірювань</string>
+    <string name="unit_british">Британська</string>
+    <string name="unit_metric_detail">Метрична (м, км)</string>
+    <string name="unit_british_detail">Империальной (футы, милі)</string>
+	<string name="metre">м</string>
+    <string name="unit_inch">Дюйм</string>
+    <string name="unit_foot">Фут</string>
+	<string name="odo_british">Всього миль</string>
+	<string name="connect_to_retrive">Інтернет недоступний</string>
 </resources>

@@ -924,7 +924,7 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="today_steps">Сегодня шагов</string>
     <string name="daily_consume">Сегодня сожжено (ккал)</string>
     <string name="week_total_distance">Дистанция за неделю (км)</string>
-    <string name="continue_reach_goal_days">Длинная\nполоса</string>
+    <string name="continue_reach_goal_days">Полоса\nдостижений</string>
     <string name="equals_fat">Это равняется\n%1$s г жира</string>
     <string name="daily_sport_report_contintue_info">"Ленивых дней осталось: %1$s\nЛичный рекорд: %2$s дн."</string>
     <string name="daily_sport_report_week_info">Пройдено шагов: %1$s\nСохранено галлонов газа: %2$s</string>
@@ -934,7 +934,7 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="delete_family_member">Удалить пользователя</string>
     <string name="daily_sport_report_notify">Сегодня пройдено: %s. Отлично!</string>
     <string name="daily_sport_report_notify_content">Нажмите для просмотра результата</string>
-    <string name="exceed_user">Количество пользователей превышено</string>
+    <string name="exceed_user">Превзошли пользователей</string>
     <string name="setting_daily_sport_notify_info">Уведомлять о результатах в 21:30</string>
     <string name="setting_daily_sport_notify">Уведомление о результатах</string>
     <string name="daily_sport_report_notify_hurry">Шагов осталось: %1$s</string>
@@ -958,4 +958,14 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="tag_connection_f">Ошибка подключения</string>
     <string name="tag_connection_f1">Держите браслет рядом с устройством</string>
     <string name="tag_error_notice">Ошибка подключения. Держите браслет близко к устройству во время подключения.</string>
+	<string name="unit_mile">Миля</string>
+	<string name="unit_metric">Система измерений</string>
+    <string name="unit_british">Британская</string>
+    <string name="unit_metric_detail">Метрическая (м, км)</string>
+    <string name="unit_british_detail">Империальная (футы, мили)</string>
+	<string name="metre">м</string>
+    <string name="unit_inch">Дюйм</string>
+    <string name="unit_foot">Фут</string>
+	<string name="odo_british">Всего миль</string>
+	<string name="connect_to_retrive">Интернет недоступен</string>
 </resources>
