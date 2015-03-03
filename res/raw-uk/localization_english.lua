@@ -4,7 +4,7 @@
 -- VasyaVeselov
 -- 20140731
 -------------------------
-localization_Chinese_table = {
+localization_English_table = {
     calories_table={
 		{str="≈ Огірок грунт. (100г)", calories=14},
 		{str="≈ Бульйон курячий (100г)", calories=15},

@@ -4,7 +4,7 @@
 -- Zenk & DriffeX
 -- 20140731
 -------------------------
-localization_Chinese_table = {
+localization_English_table = {
     calories_table={
 		{str="≈ Огурец грунт. (100г)",	calories=14},
 		{str="≈ Бульон куриный (100г)",	calories=15},

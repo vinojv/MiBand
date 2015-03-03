@@ -973,4 +973,20 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="please_input_name">Введите имя</string>
     <string name="action_pop_sensorhub">Шагометр</string>
     <string name="lab_action_tag_agree">ОК</string>
+	<string name="search_again">Повтор</string>
+	<string name="mili_weight_unbind_info">После отвязки, телефон перестанет обмениваться данными с текущими весами, и его можно будет связать с новыми.</string>
+	<string name="set_length_unit">Единица измерения длины</string>
+    <string name="set_weight_unit">Единица измерения веса</string>
+    <string name="weight_unit_metric">Метрическая (м, км)</string>
+    <string name="weight_unit_british">Империальная (футы, мили)</string>
+    <string name="weight_unit_shijin">Цзинь (1кг=500г)</string>
+    <string name="weight_unit_text_info">Весы привязаны. Единица измерения установлена по умолчанию. Изменения можно внести через батарейный отсек весов.</string>
+	<string name="week_total_distance_miles">"Всего за неделю 
+(миль)"</string>
+    <string name="found_weight_scale_title">Обнаружены весы. Убедитесь, что цифры ниже совпадают с цифрами на весах. После этого можно подтвердить привязку.</string>
+    <string name="confirm_pair">Подтвердите привязку</string>
+    <string name="signal_strong">Сильный</string>
+    <string name="signal_weak">Слабый</string>
+    <string name="signal_none">Нет</string>
+	<string name="watermark_failed_to_create_contour_track">Не удалось создать трек. Проверьте состояние памяти.</string>
 </resources>

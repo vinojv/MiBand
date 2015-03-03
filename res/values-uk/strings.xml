@@ -941,5 +941,21 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="unit_inch">Дюйм</string>
     <string name="unit_foot">Фут</string>
 	<string name="odo_british">Всього миль</string>
-	<string name="connect_to_retrive">Інтернет недоступний</string>
+	<string name="connect_to_retrive">Інтернет недоступний</string>	
+	<string name="search_again">Повтор</string>
+	<string name="mili_weight_unbind_info">Після відв\'язування, телефон перестане обмінюватися даними з поточними вагами, і його можна буде пов\'язати з новими.</string>
+	<string name="set_length_unit">Одиниця довжини</string>
+    <string name="set_weight_unit">Одиниця вимірювання ваги</string>
+    <string name="weight_unit_metric">Метрична (м, км)</string>
+    <string name="weight_unit_british">Империальной (футы, мили)</string>
+    <string name="weight_unit_shijin">Цзинь (1кг=500г)</string>
+    <string name="weight_unit_text_info">Ваги прив\'язані. Одиниця виміру встановлена за замовчуванням. Зміни можна внести через батарейний відсік ваг.</string>
+	<string name="week_total_distance_miles">"Всього за тиждень 
+(миль)"</string>
+    <string name="found_weight_scale_title">Виявлені ваги. Переконайтеся, що цифри нижче збігаються з цифрами на вагах. Після цього можна підтвердити прив\'язку.</string>
+    <string name="confirm_pair">Підтвердіть прив\'язку</string>
+    <string name="signal_strong">Сильний</string>
+    <string name="signal_weak">Слабкий</string>
+    <string name="signal_none">Немає</string>
+	<string name="watermark_failed_to_create_contour_track">Не вдалося створити трек. Перевірте стан пам\'яті.</string>
 </resources>

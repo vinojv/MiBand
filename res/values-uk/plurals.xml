@@ -9,4 +9,12 @@
         <item quantity="other">Оновлено даних: %d</item>
         <item quantity="one">Оновлено даних: %d</item>
     </plurals>
+	<plurals name="numberFoot">
+        <item quantity="other">%s фут.</item>
+        <item quantity="one">%s фут.</item>
+    </plurals>
+    <plurals name="numberInch">
+        <item quantity="other">%s дюйма</item>
+        <item quantity="one">%s дюйма</item>
+    </plurals>
 </resources>
