@@ -278,8 +278,8 @@ localization_English_table = {
     activity_rope_skipping_format="%s прыжков на скакалке: %d",
     activity_situp_format="%s пресс: %d",
     activity_consumed_format="Сожжено ккал: %d %s",
-    activity_activity_format="%s %s %s",
-    activity_activity_format_run="%s %s %s",
+    activity_activity_format="%s (%s) расстояние: %s",
+    activity_activity_format_run="%s (%s) бег: %s",
     last_night_sleeped_good_format="Сон прошлой ночью: %s",
     last_night_sleeped_normal_format="Сон прошлой ночью: %s",
     deep_sleep_format="Медленный сон: %s",
@@ -340,5 +340,5 @@ localization_English_table = {
     welcome_use_mi_health="Добро пожаловать в Mi Health",
 	
 	select_devices="Нет привязанных устройств",
-    daily_steps_not_comlete = "Сегодня вы не достигли цели: %s"
+    daily_steps_not_comlete = "До достижения цели шагов осталось: %s"
  }
