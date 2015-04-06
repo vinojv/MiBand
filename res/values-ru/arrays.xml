@@ -59,11 +59,11 @@
         <item>очень плохое</item>
     </string-array>
      <string-array name="weight_body_figures">
-        <item>Худощавая</item>
-        <item>Нормальная</item>
-        <item>Избыточный вес</item>
-        <item>Толстая</item>
-        <item>Очень толстая</item>
+        <item>Легкий</item>
+        <item>Нормальный</item>
+        <item>Избыточный</item>
+        <item>Тяжелый</item>
+        <item>Ожирение</item>
      </string-array>
      <string-array name="weight_test_unit">
         <item>кг</item>

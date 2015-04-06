@@ -42,7 +42,7 @@
     <string name="next_step">Далее</string>
     <string name="cancel">Отмена</string>
     <string name="accept">ОК</string>
-    <string name="set_sport_goal">Задать цель</string>
+    <string name="set_sport_goal">Цель активности</string>
     <string name="alarm_once">Однократно</string>
     <string name="goals_push_none">Без push уведомлений</string>
     <string name="goals_push_five">Достигнуто 50%</string>
@@ -146,7 +146,7 @@ Mi Band поддерживает только Android 4.4 и выше."</string>
 Это примерно 8000 шагов."</string>
     <string name="person_info_goal_info_young">"Исходя из введенных данных, мы предлагаем вам тренироваться не менее 60 минут в день. 
 Это примерно 12000 шагов."</string>
-    <string name="set_person_goal">Задать цель</string>
+    <string name="set_person_goal">Цель активности</string>
     <string name="feedback">Отчет</string>
     <string name="smart_wake_up">Умный будильник</string>
     <string name="smart_wake_up_info">"Разбудить во время фазы быстрого сна, но не
@@ -314,7 +314,7 @@ Mi Band поддерживает только Android 4.4 и выше."</string>
     <string name="time_format_min">%s мин.</string>
     <string name="action_pop_my_bracelet">Настройки</string>
     <string name="action_pop_smart_alarms">Будильник</string>
-    <string name="action_pop_person_info">Мой профиль</string>
+    <string name="action_pop_person_info">Профиль</string>
     <string name="action_pop_unlock_screen">Разблокировка экрана</string>
     <string name="action_pop_weixin_enter">Синхронизация с WeChat</string>
     <string name="bind_qq">Синхронизация с QQ</string>
@@ -668,8 +668,8 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="choose_userinfo_for_weight">Выберите пользователя повторно</string>
     <string name="visitor">Гость</string>
     <string name="new_user">Новый пользователь</string>
-    <string name="set_goal_weight_tips">Согласно медицинской информации, ваш вес вычисляется через индекс массы тела %1$s-%2$s%3$s</string>
-    <string name="set_weight_goal">Установить цель веса</string>
+    <string name="set_goal_weight_tips">Согласно медицинской информации, ваш нормальный вес должен быть: %1$s-%2$s %3$s</string>
+    <string name="set_weight_goal">Цель веса</string>
     <string name="set_weight_goal_yes">ОК</string>
     <string name="set_weight_goal_no">Отмена</string>
     <string name="weight_tip_bmi_name">Что такое ИМТ</string>
@@ -1206,7 +1206,7 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
 	<string name="bind_mi_weight_howto_tips">Как использовать весы</string>
 	<string name="weight_device_battery_tips">Замените батареи весов. После замены весы будут автоматически перезапущены.</string>
 	<string name="clear_weight_goal">Очистить цели</string>
-    <string name="reset_weight_goal">Сброс</string>
+    <string name="reset_weight_goal">ОК</string>
 	 <string name="bind_weibo_token_invalid">Время авторизации истекло. Повторите привязку.</string>
     <string name="weibosdk_toast_unbind_failed">Ошибка отвязки</string>
     <string name="rebind_weibo_health">Привязать заново</string>
@@ -1228,4 +1228,11 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="weibosdk_toast_auth_canceled">Авторизация отменена</string>
     <string name="weibosdk_toast_auth_success">Авторизация завершена</string>
     <string name="weibosdk_toast_auth_failed">Ошибка авторизации</string>
+	<string name="current_weight">Текущий вес</string>
+    <string name="exceed_user_percentage">Вы превзошли %1$s пользователей</string>
+    <string name="over_the_max_user_count">Максимальное количество пользователей: 16</string>
+    <string name="share_prepare_tips">Подготовка данных к отправке…</string>
+    <string name="share_to_content_weight">Данные о весе</string>
+    <string name="share_twitter_label">Twitter</string>
+    <string name="stop_on_bed_time">Время пробуждения</string>
 </resources>
