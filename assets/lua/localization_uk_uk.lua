@@ -4,7 +4,7 @@
 -- VasyaVeselov
 -- 20140731
 -------------------------
-localization_uk_table = {
+localization_uk_rUK_table = {
     calories_table={
 		{str="≈ Огірок грунт. (100г)", calories=14},
 		{str="≈ Бульйон курячий (100г)", calories=15},

@@ -1205,4 +1205,5 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
     <string name="share_to_content_weight">Дані про вагу</string>
     <string name="share_twitter_label">Twitter</string>
     <string name="stop_on_bed_time">Час пробудження</string>
+	<string name="weibosdk_toast_binded">Прив\'язане до іншого аккаунту Twitter</string>
 </resources>

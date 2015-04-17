@@ -1235,4 +1235,5 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="share_to_content_weight">Данные о весе</string>
     <string name="share_twitter_label">Twitter</string>
     <string name="stop_on_bed_time">Время пробуждения</string>
+	<string name="weibosdk_toast_binded">Привязано к другому аккаунту Twitter</string>
 </resources>
