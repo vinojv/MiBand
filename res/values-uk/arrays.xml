@@ -136,4 +136,23 @@
         <item>"Вітаємо!
 Ви перевершили свою мету %1$s%2$s"</item>
     </string-array>
+	<string-array name="phone_notify_tips">
+        <item>Вібрувати браслетом при отриманих вхідних дзвінків на підключеному пристрої</item>
+        <item>Вібрувати браслетом при будильнику на підключеному пристрої</item>
+        <item>Вібрувати браслетом при отриманні вхідного SMS на підключеному пристрої</item>
+     </string-array>
+     <string-array name="running_months">
+        <item>Січень</item>
+        <item>Лютий</item>
+        <item>Березень</item>
+        <item>Квітень</item>
+        <item>Травень</item>
+        <item>Червень</item>
+        <item>Липень</item>
+        <item>Серпень</item>
+        <item>Вересень</item>
+        <item>Жовтень</item>
+        <item>Листопад</item>
+        <item>Грудень</item>
+     </string-array>
 </resources>

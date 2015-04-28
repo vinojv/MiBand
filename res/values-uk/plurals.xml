@@ -17,4 +17,8 @@
         <item quantity="other">%s дюйма</item>
         <item quantity="one">%s дюйма</item>
     </plurals>
+	<plurals name="weight_match_user">
+        <item quantity="other">Збігань: %1$d</item>
+        <item quantity="one">Збігань: %1$d</item>
+     </plurals>
 </resources>
