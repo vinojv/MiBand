@@ -155,4 +155,11 @@
         <item>Листопад</item>
         <item>Грудень</item>
      </string-array>
+	 <string-array name="weight_body_figures_for_child">
+        <item>Худорлява</item>
+        <item>Нормальна</item>
+        <item>Надлишкова вага</item>
+        <item>Товста</item>
+        <item>Дуже товста</item>
+     </string-array>
 </resources>

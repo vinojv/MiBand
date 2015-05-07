@@ -147,4 +147,11 @@
         <item>Ноябрь</item>
         <item>Декабрь</item>
      </string-array>
+	 <string-array name="weight_body_figures_for_child">
+        <item>Легкий</item>
+        <item>Нормальный</item>
+        <item>Избыточный</item>
+        <item>Тяжелый</item>
+        <item>Ожирение</item>
+     </string-array>
 </resources>

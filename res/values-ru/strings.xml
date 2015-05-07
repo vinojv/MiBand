@@ -549,17 +549,17 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="awake_format_1">, пробуждений: 1.</string>
     <string name="discard">ОК</string>
     <string name="discard_alarm_change">Отменить изменения?</string>
-    <string name="notify_status_motor">"Вибрация: "</string>
-    <string name="notify_status_motor_notify">поиск браслета.</string>
-    <string name="notify_status_motor_call">входящий вызов.</string>
-    <string name="notify_status_motor_disconnect">Bluetooth отключен.</string>
-    <string name="notify_status_motor_smart_alarm">умный будильник.</string>
-    <string name="notify_status_motor_alarm">будильник.</string>
+    <string name="notify_status_motor">"Mi Fit: "</string>
+    <string name="notify_status_motor_notify">уведомление</string>
+    <string name="notify_status_motor_call">входящий вызов</string>
+    <string name="notify_status_motor_disconnect">Bluetooth отключен</string>
+    <string name="notify_status_motor_smart_alarm">умный будильник</string>
+    <string name="notify_status_motor_alarm">будильник</string>
     <string name="notify_status_motor_goal">достигнута цель!</string>
-    <string name="notify_status_motor_auth">браслет найден.</string>
-    <string name="notify_status_motor_shut_down">выключение браслета.</string>
-    <string name="notify_status_motor_auth_success">браслет привязан.</string>
-    <string name="notify_status_motor_test">тест.</string>
+    <string name="notify_status_motor_auth">браслет найден</string>
+    <string name="notify_status_motor_shut_down">выключение браслета</string>
+    <string name="notify_status_motor_auth_success">браслет привязан</string>
+    <string name="notify_status_motor_test">тест</string>
     <string name="vibrate_notify">Вибрация</string>
     <string name="vibrate_notify_tips">Вибрировать при получении уведомления</string>
     <string name="body">Шея</string>
@@ -568,7 +568,7 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="agree">ОК</string>
     <string name="user_agreement_prefix">"Для использования продукта вы должны принять:
 "</string>
-    <string name="battery">батарея</string>
+    <string name="battery">" "</string>
     <string name="signal_strength">Мощность сигнала: </string>
     <string name="confirm_lazy_day">Сегодня лень заниматься?</string>
     <string name="closed">Выкл.</string>
@@ -1049,8 +1049,8 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="setgoalafterweight">Установите себе цель после взвешивания</string>
     <string name="no_weight_record">История пуста %1$s.</string>
 	<string name="total_distance_format">Общее расстояние: %s</string>
-    <string name="state_open">Открыть</string>
-    <string name="state_close">Закрыть</string>
+    <string name="state_open">Включено</string>
+    <string name="state_close">Отключено</string>
     <string name="pairing">Привязка…</string>
     <string name="weight_low_battery">Батарея разряжена</string>
     <string name="weight_connect_failed_title">Ошибка подключения к весам</string>
@@ -1243,7 +1243,7 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
      <string name="chart_info_step_average">Активность в среднем</string>
      <string name="chart_info_step_piece">Текущая активность</string>
      <string name="chart_info_step_running">Бег</string>
-     <string name="chart_info_step_running_average">Без в среднем</string>
+     <string name="chart_info_step_running_average">Бег в среднем</string>
      <string name="chart_info_step_running_piece">Текущий бег</string>
      <string name="chart_info_step_total">Всего шагов</string>
      <string name="chart_info_step_walking">Ходьба</string>
@@ -1417,4 +1417,13 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
      <string name="tag_wait">ожидание</string>
      <string name="title_activity_record_weight">Запись веса</string>
      <string name="weight_match_no_user">Выберите пользователя</string>
+	 <string name="bohee_subtitle">Попробуйте профессиональную программу потери веса</string>
+     <string name="bohee_title">Программа управления весом</string>
+     <string name="feedback_empty">Введите текст отчета</string>
+     <string name="feedback_failed">Ошибка отправки отчета</string>
+     <string name="feedback_invalid">Неверная информация о контакте</string>
+     <string name="feedback_ok">Отчет отправлен</string>
+     <string name="notify_setting">Уведомления</string>
+     <string name="toast_disable_bluethooth_brocast">Выключите BLE вещание</string>
+     <string name="toast_enable_bluethooth_brocast">Включите BLE вещание</string>
 </resources>

@@ -240,7 +240,7 @@ localization_ru_rRU_table = {
     no_data_hint_2="Кардио тренировки сделают тебя бодрым и энергичным на весь день!",
     no_data_hint_3="Взрослый человек проводит в стадии медленного сна 15%-20% от общего сна.",
     not_binded_hint="Привязать Mi Band к аккаунту",
-    not_binded_hint_info="Так же можно нажать Weight Scale в меню",
+    not_binded_hint_info="Так же можно нажать на весы в меню",
     new_record_info="Вы установили новый рекорд!",
     new_record_format="Шагов: %d | Дата: %d.%s",
     today_goal_reached="Поздравляем! Сегодня вы достигли свою цель.",
@@ -302,8 +302,9 @@ localization_ru_rRU_table = {
     weather_tips_info = "Приседания или занятия со скакалкой - отличные упражнения в помещении!",
 
     ---------------Weight scale -------------------
-    welcome_use_weight_scale = "Добро пожаловать в Weight Scale",
-    welcome_use_weight_scale_not_bind = "Привязать Weight Scale",
+    welcome_use_weight_scale = "Добро пожаловать в весы",
+	welcome_use_weight_scale_info = "Информация о весах",
+    welcome_use_weight_scale_not_bind = "Привязать весы",
     welcome_use_mi_health="Добро пожаловать в Mi Health",
 	
 	select_devices="Нет привязанных устройств",

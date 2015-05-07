@@ -1387,4 +1387,13 @@ Mi Band підтримує тільки Android 4.4 і вище."</string>
      <string name="tag_wait">очікування</string>
      <string name="title_activity_record_weight">Запис ваги</string>
      <string name="weight_match_no_user">Виберіть користувача</string>
+	 <string name="bohee_subtitle">Спробуйте професійну програму втрати ваги</string>
+     <string name="bohee_title">Програма управління вагою</string>
+     <string name="feedback_empty">Введіть текст звіту</string>
+     <string name="feedback_failed">Помилка відправки звіту</string>
+     <string name="feedback_invalid">Невірна інформація про контакт</string>
+     <string name="feedback_ok">Звіт відправлений</string>
+     <string name="notify_setting">Повідомлення</string>
+     <string name="toast_disable_bluethooth_brocast">Вимкніть BLE мовлення</string>
+     <string name="toast_enable_bluethooth_brocast">Увімкніть BLE мовлення</string>
 </resources>
