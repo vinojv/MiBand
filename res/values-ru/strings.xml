@@ -114,7 +114,7 @@ Mi Band поддерживает только Android 4.4 и выше."</string>
     <string name="daily_sporty">Шагов в среднем</string>
     <string name="km">" км"</string>
     <string name="cal">ккал</string>
-    <string name="step">шагов</string>
+    <string name="step">" шагов"</string>
     <string name="rename_mili">Имя</string>
     <string name="reset_mili">Сброс Mi Band</string>
     <string name="bind_new_mili">Связать с новым Mi Band</string>
@@ -1132,7 +1132,7 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="button_send_care">Отправить приветствие</string>
     <string name="label_sport_data">Данные активности</string>
     <string name="label_sleep_data">Данные о сне</string>
-    <string name="label_step_with_unit">%s шагов</string>
+    <string name="label_step_with_unit">"%s шагов"</string>
     <string name="label_empty_friend">Вы можете обмениваться данными с друзьями</string>
     <string name="label_message_too_busy">Вы отправляете слишком много данных. Попробуйте позже.</string>
     <string name="label_message">Сообщение</string>
@@ -1146,8 +1146,8 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="label_sleep">Сон прошлой ночью</string>
     <string name="label_activity">Шагов сегодня</string>
     <string name="label_remark_name">Имя</string>
-    <string name="label_delete_friend">Удалить контакты</string>
-    <string name="label_request_add_friend">Приглашение в друзья</string>
+    <string name="label_delete_friend">Удалить друга</string>
+    <string name="label_request_add_friend">Запрос в друзья</string>
     <string name="label_refuse_add_friend_by_me">Отказаться от приглашения</string>
     <string name="label_refuse_add_friend_by_him">Отказался от приглашения</string>
     <string name="label_get_up_time">Время пробуждения</string>
@@ -1160,8 +1160,8 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
     <string name="label_update_time">Обновлено в %s</string>
     <string name="label_qrcode_error">Ошибка QR кода</string>
     <string name="label_care_time_by_other">отправил вам приветствий: %s</string>
-    <string name="label_care_time_by_me">Отправить %s приветствий ему</string>
-    <string name="label_no_care_time_by_me">Не отправлять приветствия ему</string>
+    <string name="label_care_time_by_me">Отправлено приветствий: %s</string>
+    <string name="label_no_care_time_by_me">Приветствия не отправлены</string>
     <string name="label_step">Шаги</string>
     <string name="label_mileage">Пробег (км)</string>
     <string name="label_calorie">Калории (ккал)</string>
@@ -1257,7 +1257,7 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
      <string name="crash_report_email_text">"Дополнительный комментарий:
 "</string>
      <string name="family_member_info">Информация о семье</string>
-     <string name="friend_new_user_guide">После добавления пользователя в друзья, его браслет провибрирует.</string>
+     <string name="friend_new_user_guide">После добавления пользователя в друзья его браслет провибрирует</string>
      <string name="friend_new_user_guide_ok">ОК</string>
      <string name="friend_new_user_guide_ok_toast">Друг добавлен</string>
      <string name="friend_set_nick_name_failed">Не удается установить ник</string>
@@ -1383,7 +1383,7 @@ Cожжено %3$s ккал | Сохранено %4$s галлонов бенз�
      <string name="running_state_paused">Пауза</string>
      <string name="running_state_stopped">Стоп</string>
      <string name="running_step">Шагов</string>
-     <string name="running_step_frequency">Шанов в минуту</string>
+     <string name="running_step_frequency">Шагов в минуту</string>
      <string name="running_stop">Стоп</string>
      <string name="running_synchronous">Синхронно</string>
      <string name="running_time_desc">Время</string>
